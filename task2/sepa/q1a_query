@@ -1,0 +1,22 @@
+# Run query 1a
+# arq --query q1a_query > q1a_results
+# arq --query q1a_query --results csv > q1a_results
+
+# This is an alternative form of query1 which is a bit more readable and
+# produces the same results in a more readable form.
+
+PREFIX  geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX  sepaidw: <http://data.sepa.org.uk/id/Water/> 
+PREFIX  sepaidloc: <http://data.sepa.org.uk/id/Location/>
+PREFIX  rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  sepaw: <http://data.sepa.org.uk/ont/Water#>
+
+SELECT *
+ FROM </home/dsb5/CHAIN/chain-may-2017/chain/code/daisy-spsm/queryRespond/datasets/sepa/waterBodyPressures.n3>
+WHERE { ?id sepaw:dataSource ?dataSource  ;
+            sepaw:identifiedDate ?identifiedDate ;
+            sepaw:affectsGroundwater ?affectsGroundwater ;
+            sepaw:waterBodyId ?waterBodyId
+ .}
+ 
+

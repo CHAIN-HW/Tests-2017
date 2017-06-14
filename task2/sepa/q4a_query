@@ -1,0 +1,17 @@
+#q4a_query
+# arq --query q4a_query > q4a_results
+
+PREFIX  sepaloc: <http://data.sepa.org.uk/ont/Location#>
+PREFIX  geo: <http://www.w3.org/2003/01/ge0/wgs84_pos#>
+PREFIX  sepaidw: <http://data.sepa.org.uk/id/Water/>
+PREFIX  sepaidloc: <http://data.sepa.org.uk/id/Location/>
+PREFIX  rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  sepaw: <http://data.sepa.org.uk/ont/Water#>
+
+SELECT *
+ FROM </home/dsb5/CHAIN/chain-may-2017/chain/code/daisy-spsm/queryRespond/datasets/sepa/waterBodyPressures.n3>
+WHERE { ?id sepaw:identifiedDate ?identifiedDate ;
+           sepaw:waterBodyId ?waterBodyId ;
+           sepaw:assessmentCategory ?assessmentCategory ;
+           sepaw:source ?source . }
+

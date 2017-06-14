@@ -1,0 +1,1806 @@
+-----------------------------------------------------------------------------------
+| id            | riverName                             | associatedGroundwaterId |
+===================================================================================
+| sepaidw:20527 | "Abhainn a Ghlinne Dhuibh"            | "150375"                |
+| sepaidw:5806  | "Lemno Burn"                          | "150270"                |
+| sepaidw:10132 | "Allander Water"                      | "150216"                |
+| sepaidw:10224 | "River Aral"                          | "150084"                |
+| sepaidw:20209 | "River Beauly"                        | "150337"                |
+| sepaidw:6661  | "River Lochay"                        | "150290"                |
+| sepaidw:20104 | "Allt Car Beag"                       | "150033"                |
+| sepaidw:23174 | "Burn of Braco"                       | "150403"                |
+| sepaidw:23093 | "Water of Ailnack"                    | "150405"                |
+| sepaidw:20297 | "Allt na Cailliche"                   | "150334"                |
+| sepaidw:20497 | "Allt Bad an Luig"                    | "150375"                |
+| sepaidw:6561  | "Glamis Burn"                         | "150258"                |
+| sepaidw:20052 | "Berriedale Water"                    | "150360"                |
+| sepaidw:23336 | "Dess Burn"                           | "150409"                |
+| sepaidw:3500  | "Braid Burn"                          | "150227"                |
+| sepaidw:20321 | "Clunas Burn"                         | "150331"                |
+| sepaidw:20659 | "Voy Burn"                            | "150021"                |
+| sepaidw:5313  | "Meldon Burn"                         | "150148"                |
+| sepaidw:20661 | "Netherbrough Burn"                   | "150021"                |
+| sepaidw:23006 | "Tor Burn"                            | "150333"                |
+| sepaidw:10067 | "Shirrel Burn"                        | "150218"                |
+| sepaidw:20634 | "Forss Water"                         | "150360"                |
+| sepaidw:10484 | "Piltanton Burn"                      | "150121"                |
+| sepaidw:10379 | "River Garnock"                       | "150199"                |
+| sepaidw:10296 | "River Euchar"                        | "150075"                |
+| sepaidw:20588 | "Strathmore River"                    | "150028"                |
+| sepaidw:23327 | "Burn of Curran"                      | "150298"                |
+| sepaidw:6592  | "Edradour Burn"                       | "150290"                |
+| sepaidw:6564  | "Baikie Burn"                         | "150261"                |
+| sepaidw:10438 | "River Doon"                          | "150194"                |
+| sepaidw:20350 | "Allt Leachdach"                      | "150377"                |
+| sepaidw:10208 | "River Finart"                        | "150084"                |
+| sepaidw:5117  | "Mill Burn"                           | "150131"                |
+| sepaidw:23307 | "Burn of Keig"                        | "150398"                |
+| sepaidw:6906  | "Cambusmichael Burn"                  | "150260"                |
+| sepaidw:20310 | "Craggie Burn"                        | "150329"                |
+| sepaidw:20578 | "Kinloch River"                       | "150028"                |
+| sepaidw:10412 | "Avon Water"                          | "150217"                |
+| sepaidw:10581 | "Hass Burn"                           | "150180"                |
+| sepaidw:6907  | "Lyne Burn"                           | "150410"                |
+| sepaidw:3803  | "River South Esk"                     | "150226"                |
+| sepaidw:10482 | "Galdennoch Burn"                     | "150121"                |
+| sepaidw:10278 | "River Avich"                         | "150075"                |
+| sepaidw:20042 | "Loch Burn"                           | "150361"                |
+| sepaidw:10284 | "River Strae"                         | "150075"                |
+| sepaidw:10464 | "Water of Lendal"                     | "150186"                |
+| sepaidw:23139 | "River Tromie"                        | "150327"                |
+| sepaidw:3016  | "Muireston Water"                     | "150227"                |
+| sepaidw:20257 | "Allt Coire nan Gall"                 | "150334"                |
+| sepaidw:20360 | "Allt a Chaorainn"                    | "150377"                |
+| sepaidw:23144 | "Allt na Feithe Buidhe"               | "150327"                |
+| sepaidw:5301  | "Leithen Water"                       | "150142"                |
+| sepaidw:10025 | "Dubbs Water"                         | "150214"                |
+| sepaidw:10410 | "Kype Water"                          | "150217"                |
+| sepaidw:20371 | "Allt Labhrach"                       | "150377"                |
+| sepaidw:20472 | "Badachro River"                      | "150038"                |
+| sepaidw:4200  | "River Carron"                        | "150234"                |
+| sepaidw:20637 | "River Thurso"                        | "150360"                |
+| sepaidw:6101  | "Moonzie Burn"                        | "150250"                |
+| sepaidw:4732  | "Kelty Water"                         | "150276"                |
+| sepaidw:10457 | "Water of Girvan"                     | "150189"                |
+| sepaidw:4401  | "Brothie Burn"                        | "150235"                |
+| sepaidw:10095 | "Parkhall Burn"                       | "150217"                |
+| sepaidw:23389 | "River Fechlin"                       | "150334"                |
+| sepaidw:10626 | "Chanlock Burn"                       | "150173"                |
+| sepaidw:20608 | "Kilbreck Burn"                       | "150364"                |
+| sepaidw:20398 | "Glencripesdale Burn"                 | "150065"                |
+| sepaidw:23353 | "River Muick"                         | "150289"                |
+| sepaidw:10542 | "Pulwhirn Burn"                       | "150180"                |
+| sepaidw:20679 | "Burn of Weisdale"                    | "150002"                |
+| sepaidw:20172 | "Logie Burn"                          | "150346"                |
+| sepaidw:20517 | "Abhainn Bad na h-Achlaise"           | "150375"                |
+| sepaidw:20120 | "Allt a' Bhraigh"                     | "150366"                |
+| sepaidw:10501 | "Dowalton Burn"                       | "150185"                |
+| sepaidw:4724  | "Finglas Water"                       | "150081"                |
+| sepaidw:23165 | "River Deveron"                       | "150404"                |
+| sepaidw:10044 | "River Clyde"                         | "150157"                |
+| sepaidw:20397 | "Barr River"                          | "150065"                |
+| sepaidw:20420 | "Finiskaig River"                     | "150038"                |
+| sepaidw:10347 | "Abhainn Doire Dhubhaig"              | "150073"                |
+| sepaidw:20140 | "Garrick Burn"                        | "150353"                |
+| sepaidw:20108 | "Allt na Claise Moire"                | "150033"                |
+| sepaidw:20583 | "Swordly Burn"                        | "150364"                |
+| sepaidw:20668 | "Burn of Arisdale"                    | "150001"                |
+| sepaidw:10293 | "Abhainn na Cille"                    | "150075"                |
+| sepaidw:23117 | "River Nethy"                         | "150326"                |
+| sepaidw:20658 | "Burn of Hourston"                    | "150021"                |
+| sepaidw:10579 | "Abbey Burn"                          | "150180"                |
+| sepaidw:10629 | "Cample Water"                        | "150115"                |
+| sepaidw:10612 | "River Nith"                          | "150174"                |
+| sepaidw:10576 | "Auchlane Burn"                       | "150180"                |
+| sepaidw:20405 | "Allt Beithe"                         | "150065"                |
+| sepaidw:10226 | "Douglas Water"                       | "150084"                |
+| sepaidw:5809  | "Prosen Water"                        | "150387"                |
+| sepaidw:20025 | "Kinbrace Burn"                       | "150338"                |
+| sepaidw:6846  | "Lunan Burn"                          | "150290"                |
+| sepaidw:3102  | "River Avon"                          | "150234"                |
+| sepaidw:20603 | "Mallart River"                       | "150364"                |
+| sepaidw:6001  | "Dighty Water"                        | "150256"                |
+| sepaidw:23189 | "Blind Burn"                          | "150402"                |
+| sepaidw:20191 | "River Meig"                          | "150039"                |
+| sepaidw:20133 | "Allt a Ghlinne"                      | "150366"                |
+| sepaidw:3000  | "River Almond"                        | "150227"                |
+| sepaidw:20706 | "Varragill River"                     | "150042"                |
+| sepaidw:20182 | "Black Water"                         | "150039"                |
+| sepaidw:10688 | "Archer Beck"                         | "150162"                |
+| sepaidw:6830  | "Bannock Burn"                        | "150234"                |
+| sepaidw:20463 | "Abhainn nan Lub"                     | "150038"                |
+| sepaidw:5808  | "Carity Burn"                         | "150273"                |
+| sepaidw:20378 | "Allt Neurlain"                       | "150377"                |
+| sepaidw:23004 | "River Findhorn"                      | "150333"                |
+| sepaidw:10283 | "Allt Mhaille"                        | "150075"                |
+| sepaidw:20256 | "River Garry"                         | "150334"                |
+| sepaidw:6533  | "Lunan Burn"                          | "150290"                |
+| sepaidw:6305  | "River Ore"                           | "150410"                |
+| sepaidw:6622  | "Allt Camaghouran"                    | "150294"                |
+| sepaidw:10034 | "Dargavel Burn"                       | "150214"                |
+| sepaidw:20565 | "River Laxford"                       | "150375"                |
+| sepaidw:20690 | "Kirbister Burn"                      | "150021"                |
+| sepaidw:20130 | "River Carron"                        | "150366"                |
+| sepaidw:10471 | "Muck Water"                          | "150189"                |
+| sepaidw:6579  | "Ballinloan Burn"                     | "150290"                |
+| sepaidw:6584  | "River Tummel"                        | "150294"                |
+| sepaidw:5010  | "Eye Water"                           | "150124"                |
+| sepaidw:23088 | "Burn of Tervie"                      | "150406"                |
+| sepaidw:20549 | "Abhainn Cuileig"                     | "150375"                |
+| sepaidw:10280 | "River Awe"                           | "150075"                |
+| sepaidw:20255 | "River Garry"                         | "150334"                |
+| sepaidw:6824  | "River Ogle"                          | "150283"                |
+| sepaidw:20287 | "River Doe"                           | "150334"                |
+| sepaidw:20426 | "Lochourn River"                      | "150038"                |
+| sepaidw:20529 | "Maldie Burn"                         | "150375"                |
+| sepaidw:20406 | "River Moidart"                       | "150065"                |
+| sepaidw:5900  | "Lunan Water"                         | "150271"                |
+| sepaidw:23333 | "Beltie Burn"                         | "150409"                |
+| sepaidw:6641  | "Keltney Burn"                        | "150290"                |
+| sepaidw:20122 | "River Einig"                         | "150366"                |
+| sepaidw:23203 | "Forvie Burn"                         | "150303"                |
+| sepaidw:23639 | "Allt Cuaich"                         | "150321"                |
+| sepaidw:10103 | "North Medwin Water"                  | "150222"                |
+| sepaidw:10383 | "Lugton Water"                        | "150200"                |
+| sepaidw:20101 | "Allt Chaiseagail"                    | "150033"                |
+| sepaidw:10306 | "Allt Nathais"                        | "150075"                |
+| sepaidw:20273 | "Aberchalder Burn"                    | "150334"                |
+| sepaidw:20000 | "Gill Burn"                           | "150361"                |
+| sepaidw:23181 | "River Isla"                          | "150403"                |
+| sepaidw:20348 | "Allt a' Chaoil-reidhe"               | "150377"                |
+| sepaidw:20221 | "River Farrar"                        | "150336"                |
+| sepaidw:10601 | "Under Brae Lane"                     | "150171"                |
+| sepaidw:10186 | "Kilmory Water"                       | "150104"                |
+| sepaidw:20478 | "River Sand"                          | "150038"                |
+| sepaidw:5338  | "Tima Water"                          | "150142"                |
+| sepaidw:6623  | "Killichonan Burn"                    | "150294"                |
+| sepaidw:20781 | "Abhainn Tamanabhaigh"                | "150030"                |
+| sepaidw:10169 | "Arklet Water"                        | "150082"                |
+| sepaidw:10748 | "Dippool Water"                       | "150217"                |
+| sepaidw:6600  | "Allt Mhairc"                         | "150294"                |
+| sepaidw:20581 | "Alltan Dearg"                        | "150028"                |
+| sepaidw:10264 | "River Add"                           | "150075"                |
+| sepaidw:10664 | "Goukstane Burn"                      | "150175"                |
+| sepaidw:10303 | "Feochan Mhor or River Nell"          | "150075"                |
+| sepaidw:10676 | "Garwald Water"                       | "150158"                |
+| sepaidw:20554 | "Abhainn a Chnocain"                  | "150375"                |
+| sepaidw:20118 | "River Oykel"                         | "150366"                |
+| sepaidw:20014 | "Bannock Burn"                        | "150338"                |
+| sepaidw:23283 | "River Urie"                          | "150399"                |
+| sepaidw:10373 | "Kip Water"                           | "150203"                |
+| sepaidw:4705  | "Avondhu Burn"                        | "150081"                |
+| sepaidw:23003 | "Dorback Burn"                        | "150333"                |
+| sepaidw:20411 | "Black Water"                         | "150065"                |
+| sepaidw:23361 | "Clunie Water"                        | "150288"                |
+| sepaidw:20385 | "Dubh Uisge"                          | "150067"                |
+| sepaidw:5216  | "Eden Water"                          | "150132"                |
+| sepaidw:5220  | "Teviot Water"                        | "150138"                |
+| sepaidw:20580 | "Rhian Burn"                          | "150028"                |
+| sepaidw:23026 | "Spynie Canal"                        | "150340"                |
+| sepaidw:4309  | "Keithing Burn"                       | "150410"                |
+| sepaidw:10620 | "Mennock Water"                       | "150173"                |
+| sepaidw:10382 | "River Garnock"                       | "150203"                |
+| sepaidw:23038 | "Black Burn"                          | "150319"                |
+| sepaidw:10238 | "Barr Water"                          | "150385"                |
+| sepaidw:23243 | "Den Burn"                            | "150409"                |
+| sepaidw:20123 | "Abhainn Poiblidh"                    | "150366"                |
+| sepaidw:5308  | "Cowieslinn Burn"                     | "150142"                |
+| sepaidw:6912  | "River Garry"                         | "150294"                |
+| sepaidw:23182 | "River Deveron"                       | "150314"                |
+| sepaidw:23638 | "River Truim"                         | "150321"                |
+| sepaidw:10078 | "Cander Water"                        | "150218"                |
+| sepaidw:23304 | "Leochel Burn"                        | "150398"                |
+| sepaidw:10243 | "Crossaig Burn"                       | "150385"                |
+| sepaidw:23033 | "River Lossie"                        | "150340"                |
+| sepaidw:10274 | "Allt Blarghour"                      | "150075"                |
+| sepaidw:20367 | "Uisge Labhair"                       | "150377"                |
+| sepaidw:10026 | "Maich Water"                         | "150214"                |
+| sepaidw:20335 | "Allt na Caim"                        | "150067"                |
+| sepaidw:6003  | "Murroes Burn"                        | "150256"                |
+| sepaidw:5701  | "River North Esk"                     | "150388"                |
+| sepaidw:23159 | "Burn of Fortrie"                     | "150404"                |
+| sepaidw:20618 | "Allt a Mhuilinn"                     | "150364"                |
+| sepaidw:6109  | "Kinaldy Burn"                        | "150243"                |
+| sepaidw:23306 | "Bents Burn"                          | "150398"                |
+| sepaidw:10181 | "Glen Cloy Burn"                      | "150104"                |
+| sepaidw:10636 | "Lochar Water"                        | "150167"                |
+| sepaidw:10356 | "River Laggan"                        | "150094"                |
+| sepaidw:23380 | "Black Water"                         | "150039"                |
+| sepaidw:10227 | "Leacann Water"                       | "150084"                |
+| sepaidw:6314  | "Lothrie Burn"                        | "150411"                |
+| sepaidw:23064 | "Black Water"                         | "150302"                |
+| sepaidw:5203  | "River Tweed"                         | "150145"                |
+| sepaidw:6590  | "Abhainn Ba"                          | "150294"                |
+| sepaidw:10570 | "Coom Burn"                           | "150181"                |
+| sepaidw:10130 | "River Kelvin"                        | "150219"                |
+| sepaidw:5267  | "Leader Water"                        | "150141"                |
+| sepaidw:10236 | "Saddell Water"                       | "150385"                |
+| sepaidw:23194 | "River Bogie"                         | "150402"                |
+| sepaidw:20415 | "River Polloch"                       | "150065"                |
+| sepaidw:23089 | "River Livet"                         | "150406"                |
+| sepaidw:10548 | "River Dee"                           | "150181"                |
+| sepaidw:20732 | "Allt Garbh"                          | "150042"                |
+| sepaidw:20347 | "River Pattack"                       | "150377"                |
+| sepaidw:20049 | "Dunbeath Water"                      | "150360"                |
+| sepaidw:5805  | "Noran Water"                         | "150270"                |
+| sepaidw:10281 | "Cladich River"                       | "150075"                |
+| sepaidw:5715  | "Paphrie Burn"                        | "150387"                |
+| sepaidw:6603  | "Banvie Burn"                         | "150294"                |
+| sepaidw:10300 | "River Nant"                          | "150075"                |
+| sepaidw:6512  | "Unnamed burn"                        | "150279"                |
+| sepaidw:10061 | "North Calder Water"                  | "150218"                |
+| sepaidw:23097 | "River Spey"                          | "150326"                |
+| sepaidw:10032 | "River Gryfe"                         | "150214"                |
+| sepaidw:5102  | "Whiteadder Water"                    | "150141"                |
+| sepaidw:6562  | "Kerbet Water"                        | "150258"                |
+| sepaidw:20171 | "Abhainn Loch a'Chroisg"              | "150039"                |
+| sepaidw:23288 | "River Urie"                          | "150399"                |
+| sepaidw:6644  | "Allt a' Chobhair"                    | "150290"                |
+| sepaidw:10162 | "Inveruglas Water"                    | "150082"                |
+| sepaidw:20370 | "Allt Labhrach"                       | "150377"                |
+| sepaidw:4203  | "River Carron"                        | "150395"                |
+| sepaidw:5115  | "Billie Burn"                         | "150124"                |
+| sepaidw:20261 | "Big Burn"                            | "150344"                |
+| sepaidw:6587  | "River Caur"                          | "150294"                |
+| sepaidw:10115 | "Snar Water"                          | "150157"                |
+| sepaidw:6000  | "Dighty Water"                        | "150256"                |
+| sepaidw:20015 | "Allt Garbh"                          | "150338"                |
+| sepaidw:23640 | "River Tromie"                        | "150327"                |
+| sepaidw:5252  | "Lang Burn"                           | "150155"                |
+| sepaidw:10368 | "Shian River"                         | "150090"                |
+| sepaidw:6637  | "Urlar Burn"                          | "150290"                |
+| sepaidw:20435 | "Allt Dhuirinish"                     | "150038"                |
+| sepaidw:10408 | "Avon Water"                          | "150210"                |
+| sepaidw:20093 | "River Shin"                          | "150033"                |
+| sepaidw:20428 | "Abhainn a Ghlinne Bhig"              | "150038"                |
+| sepaidw:20309 | "Cawdor Burn"                         | "150333"                |
+| sepaidw:4300  | "Bluther Burn"                        | "150235"                |
+| sepaidw:10272 | "Abhainn a Bhealaich"                 | "150075"                |
+| sepaidw:10510 | "Pulganny Burn"                       | "150189"                |
+| sepaidw:6570  | "Cromie Burn"                         | "150262"                |
+| sepaidw:20432 | "An Leth allt"                        | "150038"                |
+| sepaidw:6108  | "Kenly Water"                         | "150243"                |
+| sepaidw:20151 | "Rosemarkie Burn"                     | "150350"                |
+| sepaidw:23015 | "Glenmazeran Burn"                    | "150333"                |
+| sepaidw:23175 | "Burn of Paithnick"                   | "150403"                |
+| sepaidw:10370 | "Lussa River"                         | "150090"                |
+| sepaidw:20630 | "Burn of Ham"                         | "150361"                |
+| sepaidw:6632  | "Allt Eigheach"                       | "150294"                |
+| sepaidw:23253 | "Cowie Water"                         | "150409"                |
+| sepaidw:20444 | "River Applecross"                    | "150038"                |
+| sepaidw:20566 | "Abhainn an Loin"                     | "150375"                |
+| sepaidw:3005  | "Gogar Burn"                          | "150227"                |
+| sepaidw:23392 | "Black Water"                         | "150352"                |
+| sepaidw:4702  | "River Forth"                         | "150276"                |
+| sepaidw:6642  | "Allt Odhar"                          | "150290"                |
+| sepaidw:20386 | "Abhainn Sron a Chreagain"            | "150067"                |
+| sepaidw:20169 | "River Braan"                         | "150039"                |
+| sepaidw:10307 | "Dearg Abhainn"                       | "150075"                |
+| sepaidw:5288  | "Ettrick Water"                       | "150142"                |
+| sepaidw:10755 | "Abhainn na h-Uainaire"               | "150090"                |
+| sepaidw:10327 | "Abhainn a Ghlinne Mhoir"             | "150073"                |
+| sepaidw:20667 | "Easter Burn of Bouster"              | "150001"                |
+| sepaidw:23222 | "North Ugie Water"                    | "150307"                |
+| sepaidw:20404 | "Allt Ockle"                          | "150065"                |
+| sepaidw:20110 | "River Cassley"                       | "150033"                |
+| sepaidw:20062 | "Allt Smeprail"                       | "150358"                |
+| sepaidw:5247  | "Dean Burn"                           | "150135"                |
+| sepaidw:6650  | "Allt Cailliche"                      | "150290"                |
+| sepaidw:4313  | "Dour Burn"                           | "150241"                |
+| sepaidw:10754 | "Black Grain"                         | "150172"                |
+| sepaidw:20626 | "Burnside Burn"                       | "150360"                |
+| sepaidw:20294 | "Calder Burn"                         | "150334"                |
+| sepaidw:6614  | "Glen Fincastle Burn"                 | "150294"                |
+| sepaidw:20465 | "Allt a' Ghlubhais"                   | "150038"                |
+| sepaidw:10076 | "Avon Water"                          | "150218"                |
+| sepaidw:10544 | "Tarff Water"                         | "150182"                |
+| sepaidw:23632 | "Cowie Burn"                          | "150402"                |
+| sepaidw:10491 | "Water of Luce"                       | "150189"                |
+| sepaidw:20363 | "Abhainn Ghuilbinn"                   | "150377"                |
+| sepaidw:10393 | "River Irvine"                        | "150207"                |
+| sepaidw:20157 | "Alness River or River Averon"        | "150039"                |
+| sepaidw:20034 | "Milton Burn"                         | "150361"                |
+| sepaidw:23075 | "Dullan Water"                        | "150406"                |
+| sepaidw:23099 | "Burn of Tulchan"                     | "150327"                |
+| sepaidw:23154 | "River Spey"                          | "150327"                |
+| sepaidw:20349 | "The Cour"                            | "150377"                |
+| sepaidw:23251 | "Burn of Elsick"                      | "150409"                |
+| sepaidw:20735 | "Lon an Eireannaich"                  | "150042"                |
+| sepaidw:10517 | "Water of Malzie"                     | "150189"                |
+| sepaidw:23090 | "Chabet Water"                        | "150405"                |
+| sepaidw:10371 | "Lealt Burn"                          | "150090"                |
+| sepaidw:20060 | "River Brora"                         | "150358"                |
+| sepaidw:3809  | "River North Esk"                     | "150226"                |
+| sepaidw:10146 | "Kirk Burn"                           | "150216"                |
+| sepaidw:20408 | "River Ailort"                        | "150065"                |
+| sepaidw:20440 | "River Kishorn"                       | "150038"                |
+| sepaidw:10606 | "Craigdarroch Water"                  | "150173"                |
+| sepaidw:20586 | "River Hope"                          | "150028"                |
+| sepaidw:20322 | "Salachan Burn"                       | "150067"                |
+| sepaidw:10467 | "River Stinchar"                      | "150189"                |
+| sepaidw:20495 | "A' Ghairbhe"                         | "150038"                |
+| sepaidw:20421 | "River Carnach"                       | "150038"                |
+| sepaidw:10481 | "Sole Burn"                           | "150121"                |
+| sepaidw:23215 | "River Ugie"                          | "150306"                |
+| sepaidw:20129 | "Allt Eileag"                         | "150366"                |
+| sepaidw:23071 | "Rothes Burn"                         | "150407"                |
+| sepaidw:10119 | "Elvan Water"                         | "150157"                |
+| sepaidw:20112 | "River Cassley"                       | "150033"                |
+| sepaidw:23100 | "Allt Breac"                          | "150327"                |
+| sepaidw:20651 | "Allt Backlass"                       | "150360"                |
+| sepaidw:6647  | "Allt Bail a' Mhuilinn"               | "150290"                |
+| sepaidw:20777 | "Abhainn Mhiabhaig"                   | "150030"                |
+| sepaidw:20318 | "Muckle Burn"                         | "150331"                |
+| sepaidw:10654 | "Cloffin Burn"                        | "150175"                |
+| sepaidw:23147 | "River Truim"                         | "150321"                |
+| sepaidw:3018  | "Killandean Burn"                     | "150227"                |
+| sepaidw:10689 | "Tarras Water"                        | "150162"                |
+| sepaidw:20499 | "Little Gruinard River"               | "150375"                |
+| sepaidw:20701 | "Atenscholl River"                    | "150042"                |
+| sepaidw:20155 | "Littlemill Burn"                     | "150350"                |
+| sepaidw:4501  | "River Devon"                         | "150236"                |
+| sepaidw:20089 | "Allt Muigh bhlaraidh"                | "150353"                |
+| sepaidw:6586  | "River Tummel"                        | "150294"                |
+| sepaidw:10225 | "Erallich Water"                      | "150084"                |
+| sepaidw:20413 | "River Finnan"                        | "150065"                |
+| sepaidw:20161 | "River Glas"                          | "150348"                |
+| sepaidw:23270 | "Black Burn"                          | "150371"                |
+| sepaidw:10104 | "North Medwin Water"                  | "150217"                |
+| sepaidw:20128 | "Allt Rugaidh Mhor"                   | "150366"                |
+| sepaidw:6596  | "River Garry"                         | "150294"                |
+| sepaidw:20183 | "Rogie Burn"                          | "150039"                |
+| sepaidw:6543  | "Ennoch Burn"                         | "150285"                |
+| sepaidw:6565  | "Alyth Burn"                          | "150262"                |
+| sepaidw:4714  | "Annet Burn"                          | "150276"                |
+| sepaidw:23105 | "Allt Mor"                            | "150327"                |
+| sepaidw:10418 | "Rumbling Burn"                       | "150196"                |
+| sepaidw:3600  | "Brunstane Burn"                      | "150226"                |
+| sepaidw:20139 | "Garrick Burn"                        | "150349"                |
+| sepaidw:23364 | "Quoich Water"                        | "150289"                |
+| sepaidw:10366 | "Corran River"                        | "150090"                |
+| sepaidw:20214 | "Bruiach Burn"                        | "150336"                |
+| sepaidw:10488 | "Pinminnoch Burn"                     | "150121"                |
+| sepaidw:23239 | "Burn of Kelly"                       | "150300"                |
+| sepaidw:6553  | "Unnamed burn"                        | "150261"                |
+| sepaidw:10472 | "Cross Water"                         | "150189"                |
+| sepaidw:10336 | "River Clachaig"                      | "150073"                |
+| sepaidw:20473 | "Allt a' Ghiubhais"                   | "150038"                |
+| sepaidw:6572  | "Hole Burn"                           | "150285"                |
+| sepaidw:20479 | "Abhainn na Leuma"                    | "150038"                |
+| sepaidw:6610  | "Allt Dubhaig"                        | "150294"                |
+| sepaidw:23179 | "River Isla"                          | "150315"                |
+| sepaidw:23023 | "Kinloss Burn"                        | "150340"                |
+| sepaidw:23046 | "Pottie Burn"                         | "150342"                |
+| sepaidw:20401 | "Glenmore River"                      | "150065"                |
+| sepaidw:10731 | "Park Burn"                           | "150219"                |
+| sepaidw:10241 | "Carradale Water"                     | "150385"                |
+| sepaidw:20482 | "Allt Beithe"                         | "150038"                |
+| sepaidw:23091 | "Burn of Lochy"                       | "150405"                |
+| sepaidw:23345 | "River Dee"                           | "150288"                |
+| sepaidw:20300 | "Allt Lon Glas Bheinn"                | "150334"                |
+| sepaidw:23134 | "Allt na Baranachd"                   | "150327"                |
+| sepaidw:10466 | "River Stinchar"                      | "150189"                |
+| sepaidw:10610 | "River Nith"                          | "150177"                |
+| sepaidw:20649 | "Allt Chaiteag"                       | "150360"                |
+| sepaidw:6559  | "Commerton Burn"                      | "150261"                |
+| sepaidw:6809  | "Pow Water"                           | "150277"                |
+| sepaidw:20308 | "Geddes Burn"                         | "150333"                |
+| sepaidw:10340 | "Mingary Burn"                        | "150073"                |
+| sepaidw:20096 | "Merkland River"                      | "150033"                |
+| sepaidw:23152 | "River Avon"                          | "150405"                |
+| sepaidw:23381 | "River Moriston"                      | "150334"                |
+| sepaidw:23011 | "Allt na Feithe Sheilich"             | "150333"                |
+| sepaidw:20143 | "Roskeen Burn"                        | "150349"                |
+| sepaidw:23022 | "Mosset Burn"                         | "150333"                |
+| sepaidw:10255 | "Abhainn na Cuile"                    | "150075"                |
+| sepaidw:5110  | "Rumbelton Burn"                      | "150132"                |
+| sepaidw:20789 | "Abhainn a Loin"                      | "150030"                |
+| sepaidw:10619 | "Wanlock Water"                       | "150173"                |
+| sepaidw:6802  | "Kendrum Burn"                        | "150283"                |
+| sepaidw:10473 | "Feoch Burn"                          | "150189"                |
+| sepaidw:5229  | "Oxnam Water"                         | "150137"                |
+| sepaidw:6639  | "River Lyon"                          | "150290"                |
+| sepaidw:10503 | "Monreith Burn"                       | "150185"                |
+| sepaidw:23065 | "River Spey"                          | "150342"                |
+| sepaidw:20225 | "East Deanie Burn"                    | "150336"                |
+| sepaidw:20491 | "River Grudie"                        | "150038"                |
+| sepaidw:20092 | "River Tain"                          | "150353"                |
+| sepaidw:4721  | "Monachyle Burn"                      | "150081"                |
+| sepaidw:10326 | "Catacol Burn"                        | "150103"                |
+| sepaidw:20563 | "River Laxford"                       | "150376"                |
+| sepaidw:23140 | "River Tromie"                        | "150327"                |
+| sepaidw:23153 | "Allt Crunachdain"                    | "150327"                |
+| sepaidw:20647 | "Little River"                        | "150360"                |
+| sepaidw:6568  | "Melgam Water"                        | "150285"                |
+| sepaidw:20665 | "Burn of Burrafirth"                  | "150000"                |
+| sepaidw:6545  | "Allt a' Ghlinne Bhig"                | "150286"                |
+| sepaidw:3106  | "Logie Water"                         | "150234"                |
+| sepaidw:10678 | "Rae Burn"                            | "150158"                |
+| sepaidw:4212  | "Earl's Burn"                         | "150395"                |
+| sepaidw:10010 | "Dunwan Burn"                         | "150215"                |
+| sepaidw:20591 | "River Borgie"                        | "150364"                |
+| sepaidw:10596 | "Prestonmill Burn"                    | "150184"                |
+| sepaidw:5713  | "West Water"                          | "150274"                |
+| sepaidw:23177 | "Burn of Drum"                        | "150403"                |
+| sepaidw:20533 | "Rhiconich River"                     | "150375"                |
+| sepaidw:10337 | "River Forsa"                         | "150073"                |
+| sepaidw:10022 | "Candrens Burn"                       | "150220"                |
+| sepaidw:6547  | "Pitcarmick Burn"                     | "150285"                |
+| sepaidw:20317 | "Muckle Burn"                         | "150341"                |
+| sepaidw:20241 | "Cairnlaw Burn"                       | "150343"                |
+| sepaidw:5901  | "Lunan Water"                         | "150266"                |
+| sepaidw:5706  | "Luther Water"                        | "150269"                |
+| sepaidw:20662 | "Burn of Corrigall"                   | "150021"                |
+| sepaidw:6633  | "Allt Lochain Ghaineamhaich"          | "150294"                |
+| sepaidw:3819  | "Gore Water"                          | "150226"                |
+| sepaidw:6904  | "St Martins Burn"                     | "150260"                |
+| sepaidw:20624 | "Dounreay Burn"                       | "150360"                |
+| sepaidw:6527  | "Kettins Burn"                        | "150261"                |
+| sepaidw:23122 | "River Luineag"                       | "150327"                |
+| sepaidw:23130 | "Allt Ruadh"                          | "150327"                |
+| sepaidw:5720  | "Water of Tarf"                       | "150387"                |
+| sepaidw:6628  | "Alder Burn"                          | "150294"                |
+| sepaidw:6813  | "Shaggie Burn"                        | "150277"                |
+| sepaidw:6597  | "Allt Girnaig"                        | "150294"                |
+| sepaidw:20422 | "Inverie River"                       | "150038"                |
+| sepaidw:10478 | "Water of App"                        | "150188"                |
+| sepaidw:10269 | "Barbreck River"                      | "150075"                |
+| sepaidw:10369 | "Abhainn Ghleann Aostail"             | "150090"                |
+| sepaidw:10608 | "Glesslin Burn"                       | "150178"                |
+| sepaidw:20688 | "Kirbister Burn"                      | "150021"                |
+| sepaidw:5222  | "Kale Water"                          | "150138"                |
+| sepaidw:20326 | "Allt Nathrach"                       | "150067"                |
+| sepaidw:10358 | "Kilennan River"                      | "150094"                |
+| sepaidw:10223 | "Brannie Burn"                        | "150084"                |
+| sepaidw:20210 | "River Glass"                         | "150337"                |
+| sepaidw:6523  | "River Isla"                          | "150285"                |
+| sepaidw:4707  | "Avondhu Burn"                        | "150081"                |
+| sepaidw:23048 | "Buckie Burn"                         | "150311"                |
+| sepaidw:10346 | "Abhainn Bail a Mhuilinn"             | "150073"                |
+| sepaidw:10583 | "Urr Water"                           | "150180"                |
+| sepaidw:23052 | "Fordyce Burn"                        | "150311"                |
+| sepaidw:20389 | "Inversanda River"                    | "150067"                |
+| sepaidw:3702  | "Water of Leith"                      | "150227"                |
+| sepaidw:23102 | "Allt an Fhithich"                    | "150327"                |
+| sepaidw:10461 | "Dalduff Burn"                        | "150194"                |
+| sepaidw:23195 | "Bolmack Burn"                        | "150341"                |
+| sepaidw:23205 | "Tarty Burn"                          | "150394"                |
+| sepaidw:20124 | "Abhainn Dubhag"                      | "150366"                |
+| sepaidw:6300  | "River Leven"                         | "150244"                |
+| sepaidw:23379 | "Black Water"                         | "150039"                |
+| sepaidw:20476 | "River Kerry"                         | "150038"                |
+| sepaidw:10360 | "Kintour River"                       | "150094"                |
+| sepaidw:20167 | "River Conon"                         | "150039"                |
+| sepaidw:23020 | "Mosset Burn"                         | "150341"                |
+| sepaidw:20797 | "Abhainn Arnoil"                      | "150030"                |
+| sepaidw:10751 | "Luggie Water"                        | "150219"                |
+| sepaidw:5291  | "Little Yarrow"                       | "150142"                |
+| sepaidw:10628 | "Shinnel Water"                       | "150173"                |
+| sepaidw:20734 | "Abhainn an Acha-leathain"            | "150042"                |
+| sepaidw:6621  | "Dall Burn"                           | "150294"                |
+| sepaidw:10739 | "Evan Water"                          | "150112"                |
+| sepaidw:23161 | "Burn of Turriff"                     | "150307"                |
+| sepaidw:20094 | "Merkland River"                      | "150033"                |
+| sepaidw:3002  | "River Almond"                        | "150227"                |
+| sepaidw:23128 | "River Spey"                          | "150326"                |
+| sepaidw:3801  | "River Esk"                           | "150226"                |
+| sepaidw:6663  | "Luib Burn"                           | "150290"                |
+| sepaidw:10546 | "River Dee"                           | "150181"                |
+| sepaidw:6630  | "Allt Chalder"                        | "150294"                |
+| sepaidw:20518 | "Abhainn Bad na h-Achlaise"           | "150375"                |
+| sepaidw:10411 | "Lochar Water"                        | "150217"                |
+| sepaidw:4002  | "Bearford Burn"                       | "150225"                |
+| sepaidw:20085 | "Culrain Burn"                        | "150366"                |
+| sepaidw:20431 | "River Croe"                          | "150038"                |
+| sepaidw:20387 | "River Scaddle"                       | "150067"                |
+| sepaidw:6840  | "Kiel Burn"                           | "150410"                |
+| sepaidw:6505  | "River Dochart"                       | "150290"                |
+| sepaidw:10528 | "Water of Minnoch"                    | "150189"                |
+| sepaidw:6815  | "River Lednock"                       | "150283"                |
+| sepaidw:10029 | "River Calder"                        | "150214"                |
+| sepaidw:10389 | "Caaf Water"                          | "150203"                |
+| sepaidw:20775 | "Abhainn Lacasdail"                   | "150030"                |
+| sepaidw:10483 | "Bishop Burn"                         | "150122"                |
+| sepaidw:6660  | "River Lochay"                        | "150290"                |
+| sepaidw:23103 | "Allt Choire Odhair"                  | "150327"                |
+| sepaidw:20684 | "Burn of Sweenalay"                   | "150021"                |
+| sepaidw:20585 | "Armadale Burn"                       | "150364"                |
+| sepaidw:10152 | "Endrick Water"                       | "150275"                |
+| sepaidw:20722 | "River Talisker"                      | "150042"                |
+| sepaidw:5703  | "Water of Lee"                        | "150387"                |
+| sepaidw:20135 | "Garbh Allt"                          | "150366"                |
+| sepaidw:23295 | "River Don"                           | "150397"                |
+| sepaidw:10532 | "Water of Trool"                      | "150189"                |
+| sepaidw:20006 | "Craggie Water"                       | "150338"                |
+| sepaidw:20467 | "River Torridon"                      | "150038"                |
+| sepaidw:23080 | "Knockando Burn"                      | "150407"                |
+| sepaidw:6845  | "Lunan Burn"                          | "150290"                |
+| sepaidw:10164 | "Allt Coiregrogain"                   | "150082"                |
+| sepaidw:10580 | "Tacher Burn"                         | "150180"                |
+| sepaidw:23101 | "Allt Chuirn"                         | "150327"                |
+| sepaidw:5238  | "Ale Water"                           | "150155"                |
+| sepaidw:5235  | "Black Burn"                          | "150162"                |
+| sepaidw:5292  | "Altrieve Lake"                       | "150142"                |
+| sepaidw:10717 | "Garpel Water"                        | "150197"                |
+| sepaidw:5122  | "Dye Water"                           | "150141"                |
+| sepaidw:10684 | "Wauchope Water"                      | "150158"                |
+| sepaidw:20598 | "Meadie Burn"                         | "150364"                |
+| sepaidw:6839  | "River Earn"                          | "150284"                |
+| sepaidw:20339 | "River Lochy"                         | "150067"                |
+| sepaidw:23056 | "Tore Burn"                           | "150307"                |
+| sepaidw:20453 | "Allt Loch Innis nan Seangan"         | "150038"                |
+| sepaidw:10178 | "Sannox Burn"                         | "150103"                |
+| sepaidw:20589 | "An Garbh-allt"                       | "150028"                |
+| sepaidw:23098 | "Burn of Coire"                       | "150327"                |
+| sepaidw:23318 | "Sheeoch Burn"                        | "150409"                |
+| sepaidw:20274 | "River E"                             | "150334"                |
+| sepaidw:10215 | "Croe Water"                          | "150084"                |
+| sepaidw:4330  | "Tower Burn"                          | "150240"                |
+| sepaidw:10694 | "Hermitage Water"                     | "150162"                |
+| sepaidw:10400 | "Craufurdland Water"                  | "150198"                |
+| sepaidw:6618  | "Innerhadden Burn"                    | "150294"                |
+| sepaidw:10206 | "Glentarsan Burn"                     | "150084"                |
+| sepaidw:4001  | "River Tyne"                          | "150226"                |
+| sepaidw:20176 | "River Orrin"                         | "150039"                |
+| sepaidw:23061 | "Burn of Strathbeg"                   | "150302"                |
+| sepaidw:5312  | "Lyne Water"                          | "150151"                |
+| sepaidw:23350 | "River Gairn"                         | "150289"                |
+| sepaidw:10239 | "Abhainn a Chnoeain"                  | "150385"                |
+| sepaidw:6200  | "River Eden"                          | "150249"                |
+| sepaidw:10480 | "Messan Burn"                         | "150188"                |
+| sepaidw:10113 | "Duneaton Water"                      | "150157"                |
+| sepaidw:20329 | "River Nevis"                         | "150067"                |
+| sepaidw:5106  | "Blackadder Water"                    | "150134"                |
+| sepaidw:10158 | "Fruin Water"                         | "150082"                |
+| sepaidw:20516 | "Allt Gleann an t-Srathain"           | "150375"                |
+| sepaidw:23358 | "Gelder Burn"                         | "150289"                |
+| sepaidw:23180 | "Loan Burn"                           | "150403"                |
+| sepaidw:20749 | "Abhainn a Ghlinne Dhuibh"            | "150030"                |
+| sepaidw:3100  | "River Avon"                          | "150234"                |
+| sepaidw:3912  | "Mill Burn North"                     | "150224"                |
+| sepaidw:5602  | "Raesmill Burn"                       | "150265"                |
+| sepaidw:20361 | "Abhainn Ghuilbinn"                   | "150377"                |
+| sepaidw:10560 | "Poliferie Burn"                      | "150181"                |
+| sepaidw:10391 | "River Irvine"                        | "150198"                |
+| sepaidw:23085 | "River Avon"                          | "150405"                |
+| sepaidw:10554 | "Crae Lane"                           | "150180"                |
+| sepaidw:10221 | "River Shira"                         | "150084"                |
+| sepaidw:20538 | "Allt an Loin Bhain"                  | "150375"                |
+| sepaidw:10699 | "Dawston Burn"                        | "150162"                |
+| sepaidw:10640 | "Black Grain"                         | "150167"                |
+| sepaidw:10574 | "Black Bridge Burn"                   | "150180"                |
+| sepaidw:20127 | "Allt Rugaidh Bheag"                  | "150366"                |
+| sepaidw:10256 | "Baranlongart Burn"                   | "150075"                |
+| sepaidw:20542 | "Gruinard River"                      | "150375"                |
+| sepaidw:3704  | "Water of Leith"                      | "150227"                |
+| sepaidw:5215  | "Eden Water"                          | "150125"                |
+| sepaidw:20699 | "Kilmaluag River"                     | "150042"                |
+| sepaidw:10339 | "River Bellart"                       | "150073"                |
+| sepaidw:3021  | "Breich Water"                        | "150234"                |
+| sepaidw:20105 | "Allt Car"                            | "150033"                |
+| sepaidw:6611  | "Errochty Water"                      | "150294"                |
+| sepaidw:10161 | "Douglas Water"                       | "150082"                |
+| sepaidw:23257 | "Carron Water"                        | "150268"                |
+| sepaidw:5121  | "Faseny Water"                        | "150141"                |
+| sepaidw:20106 | "River Fiag"                          | "150033"                |
+| sepaidw:10744 | "Easan Biorach"                       | "150103"                |
+| sepaidw:10154 | "Catter Burn"                         | "150275"                |
+| sepaidw:3807  | "River North Esk"                     | "150226"                |
+| sepaidw:4715  | "Keltie Water"                        | "150280"                |
+| sepaidw:20711 | "Abhainn Ceann Locha"                 | "150042"                |
+| sepaidw:20359 | "Abhainn Rath"                        | "150377"                |
+| sepaidw:6549  | "The Back Burn"                       | "150285"                |
+| sepaidw:5217  | "Hume Burn"                           | "150132"                |
+| sepaidw:10562 | "Water of Deugh"                      | "150181"                |
+| sepaidw:6883  | "Dronachy Burn"                       | "150410"                |
+| sepaidw:6638  | "Camserney Burn"                      | "150290"                |
+| sepaidw:10588 | "Spottes Burn"                        | "150180"                |
+| sepaidw:20342 | "Allt a Mhuilinn"                     | "150067"                |
+| sepaidw:10495 | "Penwhirn Burn"                       | "150189"                |
+| sepaidw:10460 | "Burnton Burn"                        | "150194"                |
+| sepaidw:20081 | "Spinningdale Burn"                   | "150033"                |
+| sepaidw:23237 | "Little Water"                        | "150300"                |
+| sepaidw:3820  | "Redside Burn"                        | "150226"                |
+| sepaidw:10323 | "An Lola"                             | "150067"                |
+| sepaidw:20417 | "Abhainn Shlatach"                    | "150065"                |
+| sepaidw:20024 | "Allt an Loin Tharsuin"               | "150338"                |
+| sepaidw:10313 | "River Kinglass"                      | "150075"                |
+| sepaidw:10479 | "Messan Burn"                         | "150122"                |
+| sepaidw:10063 | "North Calder Water"                  | "150218"                |
+| sepaidw:20434 | "Allt Cleann Udalain"                 | "150038"                |
+| sepaidw:6316  | "Greens Burn"                         | "150246"                |
+| sepaidw:6818  | "Ruchill Water"                       | "150283"                |
+| sepaidw:6807  | "Pairney Burn"                        | "150250"                |
+| sepaidw:4402  | "Black Devon"                         | "150235"                |
+| sepaidw:20823 | "Abhainn thernaraigh"                 | "150382"                |
+| sepaidw:20726 | "Caroy River"                         | "150042"                |
+| sepaidw:10474 | "Lavery Burn"                         | "150189"                |
+| sepaidw:10553 | "Airie Burn"                          | "150181"                |
+| sepaidw:5294  | "Megget Water"                        | "150142"                |
+| sepaidw:6401  | "Errol Pow"                           | "150255"                |
+| sepaidw:23016 | "Allt a' Mhuilinn"                    | "150333"                |
+| sepaidw:6503  | "River Dochart"                       | "150290"                |
+| sepaidw:20041 | "Loch Burn"                           | "150361"                |
+| sepaidw:10246 | "Clachan Burn"                        | "150385"                |
+| sepaidw:3202  | "Sauchenford Burn"                    | "150234"                |
+| sepaidw:23042 | "Gedloch Burn"                        | "150407"                |
+| sepaidw:20720 | "River Brittle"                       | "150042"                |
+| sepaidw:10677 | "Moodlaw Burn"                        | "150158"                |
+| sepaidw:23185 | "Burn Treble"                         | "150401"                |
+| sepaidw:23095 | "Builg Burn"                          | "150405"                |
+| sepaidw:4722  | "Drunkie Burn"                        | "150081"                |
+| sepaidw:5287  | "Ettrick Water"                       | "150142"                |
+| sepaidw:23269 | "River Don"                           | "150371"                |
+| sepaidw:23221 | "North Ugie Water"                    | "150305"                |
+| sepaidw:23390 | "River Fleet"                         | "150358"                |
+| sepaidw:23224 | "South Ugie Water"                    | "150306"                |
+| sepaidw:20082 | "Spinningdale Burn"                   | "150033"                |
+| sepaidw:6413  | "Annaty Burn"                         | "150260"                |
+| sepaidw:3009  | "Brox Burn"                           | "150227"                |
+| sepaidw:20693 | "Swanney Burn"                        | "150021"                |
+| sepaidw:23168 | "Burn of Auchintoul"                  | "150404"                |
+| sepaidw:4321  | "Dreel Burn"                          | "150243"                |
+| sepaidw:20436 | "Allt Cadh an Eas"                    | "150038"                |
+| sepaidw:10515 | "Tarf Water"                          | "150189"                |
+| sepaidw:20156 | "Alness River or River Averon"        | "150352"                |
+| sepaidw:20216 | "Breakachy Burn"                      | "150336"                |
+| sepaidw:3904  | "Biel Water"                          | "150225"                |
+| sepaidw:20396 | "Abhainn Mhungasdail"                 | "150065"                |
+| sepaidw:3400  | "Pardovan Burn"                       | "150193"                |
+| sepaidw:10302 | "Feochan Mhor or River Nell"          | "150075"                |
+| sepaidw:4301  | "Bluther Burn"                        | "150235"                |
+| sepaidw:5111  | "Fangrist Burn"                       | "150132"                |
+| sepaidw:6834  | "River Teith"                         | "150276"                |
+| sepaidw:10603 | "River Nith"                          | "150166"                |
+| sepaidw:20395 | "Killundine River"                    | "150065"                |
+| sepaidw:20731 | "Treaslane River"                     | "150042"                |
+| sepaidw:20574 | "Allt an t-Srathain"                  | "150028"                |
+| sepaidw:20174 | "River Orrin"                         | "150039"                |
+| sepaidw:20506 | "Ullapool River"                      | "150375"                |
+| sepaidw:5712  | "Cruick Water"                        | "150389"                |
+| sepaidw:10100 | "Glade Burn"                          | "150223"                |
+| sepaidw:23034 | "Linkwood Burn"                       | "150340"                |
+| sepaidw:5011  | "Eye Water"                           | "150124"                |
+| sepaidw:20188 | "Abhain Srath a' Bhathaich"           | "150039"                |
+| sepaidw:10566 | "Carsphairn Burn"                     | "150181"                |
+| sepaidw:10093 | "Douglas Water"                       | "150217"                |
+| sepaidw:10642 | "River Annan"                         | "150118"                |
+| sepaidw:10508 | "River Bladnoch"                      | "150189"                |
+| sepaidw:10653 | "Kinnel Water"                        | "150175"                |
+| sepaidw:20240 | "Mill Burn"                           | "150344"                |
+| sepaidw:10312 | "River Liver"                         | "150075"                |
+| sepaidw:6506  | "River Almond"                        | "150264"                |
+| sepaidw:10423 | "Water of Coyle"                      | "150196"                |
+| sepaidw:10536 | "Moneypool Burn"                      | "150189"                |
+| sepaidw:10345 | "Allt an Lon Biolaireich"             | "150073"                |
+| sepaidw:4003  | "Back Burn"                           | "150225"                |
+| sepaidw:5801  | "River South Esk"                     | "150387"                |
+| sepaidw:10253 | "Ormsary Water"                       | "150075"                |
+| sepaidw:20402 | "Allt Sanna"                          | "150065"                |
+| sepaidw:20831 | "River Kirkaig"                       | "150375"                |
+| sepaidw:10188 | "Clauchan Water"                      | "150104"                |
+| sepaidw:20288 | "River Loyne"                         | "150334"                |
+| sepaidw:23156 | "Burn of Brydock"                     | "150404"                |
+| sepaidw:6657  | "Allt Breaclaich"                     | "150290"                |
+| sepaidw:20208 | "Moniack Burn"                        | "150334"                |
+| sepaidw:10477 | "Ferly Burn"                          | "150194"                |
+| sepaidw:6578  | "River Braan"                         | "150290"                |
+| sepaidw:10434 | "Burnock Water"                       | "150197"                |
+| sepaidw:10194 | "River Ruel"                          | "150084"                |
+| sepaidw:10001 | "White Cart Water"                    | "150215"                |
+| sepaidw:10490 | "Sandmill Burn"                       | "150121"                |
+| sepaidw:6607  | "Allt a' Chrombaidh"                  | "150294"                |
+| sepaidw:4719  | "River Larig"                         | "150081"                |
+| sepaidw:10413 | "Calder Water"                        | "150215"                |
+| sepaidw:5324  | "Biggar Water"                        | "150149"                |
+| sepaidw:20725 | "River Ose"                           | "150042"                |
+| sepaidw:20048 | "Dunbeath Water"                      | "150360"                |
+| sepaidw:6582  | "Tulliemet Burn"                      | "150290"                |
+| sepaidw:23384 | "River Kerry"                         | "150038"                |
+| sepaidw:20253 | "River Oich"                          | "150334"                |
+| sepaidw:10167 | "Dubh Eas"                            | "150082"                |
+| sepaidw:10657 | "Water of Ae"                         | "150175"                |
+| sepaidw:6306  | "River Ore"                           | "150410"                |
+| sepaidw:10144 | "Board Burn"                          | "150219"                |
+| sepaidw:20280 | "River Moriston"                      | "150334"                |
+| sepaidw:20709 | "Broadford River"                     | "150042"                |
+| sepaidw:23124 | "Milton Burn"                         | "150327"                |
+| sepaidw:6501  | "River Tay"                           | "150291"                |
+| sepaidw:20614 | "Halladale River"                     | "150364"                |
+| sepaidw:6805  | "Duncrub Burn"                        | "150250"                |
+| sepaidw:10073 | "South Calder Water"                  | "150218"                |
+| sepaidw:10028 | "Roebank Burn"                        | "150396"                |
+| sepaidw:23082 | "Allt Arder"                          | "150407"                |
+| sepaidw:3700  | "Water of Leith"                      | "150227"                |
+| sepaidw:20355 | "Allt Laire"                          | "150377"                |
+| sepaidw:10617 | "Euchan Water"                        | "150173"                |
+| sepaidw:20496 | "Allt Bad an Luig"                    | "150375"                |
+| sepaidw:20053 | "Berriedale Water"                    | "150360"                |
+| sepaidw:10102 | "South Medwin Water"                  | "150222"                |
+| sepaidw:20696 | "Rackwick Burn"                       | "150023"                |
+| sepaidw:20165 | "River Conon"                         | "150346"                |
+| sepaidw:5200  | "River Tweed"                         | "150125"                |
+| sepaidw:23263 | "Forthie Water"                       | "150268"                |
+| sepaidw:6629  | "Allt Chomraidh"                      | "150294"                |
+| sepaidw:10148 | "Garret Burn"                         | "150216"                |
+| sepaidw:10187 | "Sliddery Water"                      | "150104"                |
+| sepaidw:10456 | "Water of Girvan"                     | "150194"                |
+| sepaidw:20148 | "Ussie Burn"                          | "150352"                |
+| sepaidw:20067 | "Allt a Mhuilinn Duibh"               | "150358"                |
+| sepaidw:4500  | "River Devon"                         | "150235"                |
+| sepaidw:3701  | "Murray Burn"                         | "150227"                |
+| sepaidw:20442 | "Russel Burn"                         | "150038"                |
+| sepaidw:5289  | "Howden Burn"                         | "150142"                |
+| sepaidw:10343 | "Aros River"                          | "150073"                |
+| sepaidw:3902  | "Dry Burn"                            | "150225"                |
+| sepaidw:5237  | "Ale Water"                           | "150155"                |
+| sepaidw:20461 | "Abhainn Dubh"                        | "150038"                |
+| sepaidw:6556  | "Dean Water"                          | "150254"                |
+| sepaidw:10083 | "Fiddler Burn"                        | "150217"                |
+| sepaidw:20324 | "River Laroch"                        | "150067"                |
+| sepaidw:23155 | "River Deveron"                       | "150312"                |
+| sepaidw:6511  | "East Pow"                            | "150260"                |
+| sepaidw:10160 | "Luss Water"                          | "150082"                |
+| sepaidw:10604 | "Cluden Water"                        | "150178"                |
+| sepaidw:20050 | "Raffin Burn"                         | "150360"                |
+| sepaidw:3802  | "River South Esk"                     | "150226"                |
+| sepaidw:6580  | "Tombane Burn"                        | "150290"                |
+| sepaidw:20592 | "Allt Ach nan Tor"                    | "150364"                |
+| sepaidw:20382 | "Fionn Lighe"                         | "150067"                |
+| sepaidw:10071 | "Earnock Burn"                        | "150218"                |
+| sepaidw:5282  | "Gala Water"                          | "150142"                |
+| sepaidw:20619 | "Trantiebeg Burn"                     | "150364"                |
+| sepaidw:10277 | "River Avich"                         | "150075"                |
+| sepaidw:20443 | "River Toscaig"                       | "150038"                |
+| sepaidw:6557  | "Meigle Burn"                         | "150261"                |
+| sepaidw:20262 | "River Enrick"                        | "150334"                |
+| sepaidw:20100 | "River Tirry"                         | "150033"                |
+| sepaidw:20621 | "Forsinain Burn"                      | "150364"                |
+| sepaidw:6829  | "River Tummel"                        | "150292"                |
+| sepaidw:10641 | "Pow Water"                           | "150163"                |
+| sepaidw:10504 | "The Ket"                             | "150185"                |
+| sepaidw:23133 | "River Feshie"                        | "150327"                |
+| sepaidw:10625 | "Scar Water"                          | "150173"                |
+| sepaidw:6573  | "Burn of Kilry"                       | "150285"                |
+| sepaidw:23019 | "River Findhorn"                      | "150333"                |
+| sepaidw:4210  | "Auchenbowie Burn"                    | "150395"                |
+| sepaidw:20072 | "Abhainn an t-Sratha Carnaig"         | "150358"                |
+| sepaidw:23293 | "River Don"                           | "150398"                |
+| sepaidw:20702 | "Lealt River"                         | "150042"                |
+| sepaidw:23014 | "River Findhorn"                      | "150328"                |
+| sepaidw:6609  | "Edendon Water"                       | "150294"                |
+| sepaidw:10637 | "Lochar Water"                        | "150167"                |
+| sepaidw:20487 | "Inveran River"                       | "150038"                |
+| sepaidw:10197 | "Strathlachan River"                  | "150084"                |
+| sepaidw:10424 | "Taiglum Burn"                        | "150196"                |
+| sepaidw:10316 | "River Etive"                         | "150075"                |
+| sepaidw:6303  | "Kennoway Burn"                       | "150244"                |
+| sepaidw:20064 | "Black Water"                         | "150358"                |
+| sepaidw:20613 | "The Uair"                            | "150364"                |
+| sepaidw:20017 | "Claggan Burn"                        | "150338"                |
+| sepaidw:23252 | "Burn of Muchalls"                    | "150409"                |
+| sepaidw:20577 | "Allt Ach an t Srathain"              | "150028"                |
+| sepaidw:5810  | "Prosen Water"                        | "150387"                |
+| sepaidw:20536 | "Achriesgill Water"                   | "150375"                |
+| sepaidw:20569 | "Kearvaig River"                      | "150028"                |
+| sepaidw:4305  | "Tower Burn"                          | "150410"                |
+| sepaidw:10151 | "Carrochan Burn"                      | "150275"                |
+| sepaidw:20543 | "Gruinard River"                      | "150375"                |
+| sepaidw:10470 | "Duisk River"                         | "150189"                |
+| sepaidw:23120 | "Am Beanaidh"                         | "150326"                |
+| sepaidw:23331 | "Water of Feugh"                      | "150298"                |
+| sepaidw:20502 | "Allt Airdeasaidh"                    | "150375"                |
+| sepaidw:5123  | "Blacksmill Burn"                     | "150131"                |
+| sepaidw:10599 | "Crooks Pow"                          | "150171"                |
+| sepaidw:20509 | "Allt Lochan Sgeireach"               | "150375"                |
+| sepaidw:10665 | "Dornock Burn"                        | "150164"                |
+| sepaidw:23328 | "Water of Dye"                        | "150408"                |
+| sepaidw:20596 | "River Naver a Dhuibh"                | "150364"                |
+| sepaidw:23235 | "Burn of Crichie (Fyvie)"             | "150300"                |
+| sepaidw:20451 | "River Ling"                          | "150038"                |
+| sepaidw:10228 | "Strone Water"                        | "150385"                |
+| sepaidw:5107  | "Blackadder Water"                    | "150141"                |
+| sepaidw:10631 | "Crichope Linn"                       | "150173"                |
+| sepaidw:10213 | "River Goil"                          | "150084"                |
+| sepaidw:23142 | "River Spey"                          | "150324"                |
+| sepaidw:23187 | "River Deveron"                       | "150401"                |
+| sepaidw:6654  | "Allt Meall nan Damh"                 | "150290"                |
+| sepaidw:10355 | "Allt Garbh"                          | "150094"                |
+| sepaidw:6804  | "Dunning Burn"                        | "150277"                |
+| sepaidw:10120 | "Portrail Water"                      | "150157"                |
+| sepaidw:20441 | "Russel Burn"                         | "150038"                |
+| sepaidw:3101  | "River Avon"                          | "150234"                |
+| sepaidw:20604 | "Mallart River"                       | "150364"                |
+| sepaidw:20766 | "Abhainn Ruadh"                       | "150030"                |
+| sepaidw:20192 | "River Meig"                          | "150039"                |
+| sepaidw:20445 | "Abhainn Chuaig"                      | "150038"                |
+| sepaidw:20523 | "Oldany River"                        | "150375"                |
+| sepaidw:10738 | "Liddel Water"                        | "150162"                |
+| sepaidw:6520  | "Shochie Burn"                        | "150260"                |
+| sepaidw:6649  | "Allt Conait"                         | "150290"                |
+| sepaidw:5403  | "Sourhope Burn"                       | "150130"                |
+| sepaidw:5406  | "Mountmill Burn"                      | "150142"                |
+| sepaidw:20013 | "Bannock Burn"                        | "150338"                |
+| sepaidw:6526  | "Burrelton Burn"                      | "150261"                |
+| sepaidw:4603  | "Lodge Burn"                          | "150276"                |
+| sepaidw:23377 | "Innes Canal"                         | "150342"                |
+| sepaidw:4734  | "Drunkie Burn"                        | "150276"                |
+| sepaidw:10509 | "River Bladnoch"                      | "150189"                |
+| sepaidw:6640  | "Abhainn Ghlas"                       | "150290"                |
+| sepaidw:20173 | "Logie Burn"                          | "150346"                |
+| sepaidw:23111 | "Allt Lorgy"                          | "150327"                |
+| sepaidw:20045 | "Reisgill Burn"                       | "150361"                |
+| sepaidw:6833  | "Allan Water"                         | "150276"                |
+| sepaidw:10156 | "Blane Water"                         | "150216"                |
+| sepaidw:10033 | "Dargavel Burn"                       | "150214"                |
+| sepaidw:10496 | "Lady Burn"                           | "150187"                |
+| sepaidw:20728 | "Bay River"                           | "150042"                |
+| sepaidw:10304 | "Black Lynn Burn"                     | "150075"                |
+| sepaidw:10447 | "Garpel Burn"                         | "150189"                |
+| sepaidw:20446 | "River Morar"                         | "150038"                |
+| sepaidw:20303 | "River Quoich"                        | "150334"                |
+| sepaidw:6105  | "Lundin Burn"                         | "150247"                |
+| sepaidw:10669 | "River Sark"                          | "150164"                |
+| sepaidw:6402  | "Grange Pow"                          | "150255"                |
+| sepaidw:10111 | "Roberton Burn"                       | "150217"                |
+| sepaidw:20721 | "Eynort River"                        | "150042"                |
+| sepaidw:20044 | "Clyth Burn"                          | "150361"                |
+| sepaidw:6311  | "Den Burn"                            | "150410"                |
+| sepaidw:23032 | "River Lossie"                        | "150340"                |
+| sepaidw:20146 | "River Sgitheach"                     | "150352"                |
+| sepaidw:23229 | "Water of Fedderate"                  | "150301"                |
+| sepaidw:6822  | "Beich Burn"                          | "150283"                |
+| sepaidw:20575 | "Strath Melness Burn"                 | "150028"                |
+| sepaidw:6806  | "Ruthven Water"                       | "150277"                |
+| sepaidw:20331 | "Black Water"                         | "150067"                |
+| sepaidw:20074 | "Garbh Allt"                          | "150358"                |
+| sepaidw:20675 | "Burn of Voxter"                      | "150002"                |
+| sepaidw:6652  | "Allt a' Chilleine"                   | "150290"                |
+| sepaidw:23352 | "Allt Darrarie"                       | "150289"                |
+| sepaidw:20399 | "Carnoch River"                       | "150065"                |
+| sepaidw:20535 | "Achriesgill Water"                   | "150375"                |
+| sepaidw:20117 | "River Oykel"                         | "150366"                |
+| sepaidw:10647 | "Corrie Water"                        | "150175"                |
+| sepaidw:20229 | "Allt Leathad an Tobair"              | "150336"                |
+| sepaidw:20438 | "Abhainn Cumhang a' Ghlinne"          | "150038"                |
+| sepaidw:10530 | "Kirriemore Burn"                     | "150189"                |
+| sepaidw:20419 | "Allt Cam Carach"                     | "150038"                |
+| sepaidw:23338 | "Tarland Burn"                        | "150390"                |
+| sepaidw:23002 | "Dorback Burn"                        | "150333"                |
+| sepaidw:23323 | "Leuchar Burn"                        | "150409"                |
+| sepaidw:20514 | "River Polly"                         | "150375"                |
+| sepaidw:20366 | "Allt Feith Thuill"                   | "150377"                |
+| sepaidw:20233 | "Abhainn Sithidh"                     | "150336"                |
+| sepaidw:20689 | "Kirbister Burn"                      | "150021"                |
+| sepaidw:5221  | "Teviot Water"                        | "150155"                |
+| sepaidw:10673 | "Black Esk"                           | "150158"                |
+| sepaidw:23096 | "River Spey"                          | "150326"                |
+| sepaidw:23027 | "Spynie Canal"                        | "150340"                |
+| sepaidw:23009 | "Funtack Burn"                        | "150333"                |
+| sepaidw:6819  | "Findhu Glen Burn"                    | "150277"                |
+| sepaidw:20504 | "River Lael"                          | "150375"                |
+| sepaidw:10110 | "Garf Water"                          | "150217"                |
+| sepaidw:23049 | "Rathven Burn"                        | "150311"                |
+| sepaidw:10322 | "River Ure"                           | "150067"                |
+| sepaidw:6310  | "Den Burn"                            | "150410"                |
+| sepaidw:23106 | "River Dulnain"                       | "150325"                |
+| sepaidw:4202  | "River Carron"                        | "150395"                |
+| sepaidw:20708 | "Abhainn Ceann Loch Ainort"           | "150042"                |
+| sepaidw:6800  | "River Earn"                          | "150251"                |
+| sepaidw:5702  | "River North Esk"                     | "150387"                |
+| sepaidw:23369 | "River Urie"                          | "150399"                |
+| sepaidw:10602 | "Under Brae Lane"                     | "150171"                |
+| sepaidw:5274  | "Lauder Burn"                         | "150142"                |
+| sepaidw:23013 | "Allt Tarsuinn"                       | "150333"                |
+| sepaidw:23356 | "Crathie Burn"                        | "150289"                |
+| sepaidw:6313  | "Lothrie Burn"                        | "150411"                |
+| sepaidw:23267 | "Elrick Burn"                         | "150400"                |
+| sepaidw:5719  | "Burn of Keenie"                      | "150387"                |
+| sepaidw:4503  | "Burn of Sorrow"                      | "150236"                |
+| sepaidw:6636  | "Edradynate Burn"                     | "150290"                |
+| sepaidw:23170 | "Keithny Burn"                        | "150404"                |
+| sepaidw:20737 | "River Haultin"                       | "150042"                |
+| sepaidw:6569  | "Glendamff Burn"                      | "150285"                |
+| sepaidw:10131 | "River Kelvin"                        | "150212"                |
+| sepaidw:20011 | "Allt Beithe"                         | "150038"                |
+| sepaidw:20601 | "Allt Dalharrold"                     | "150364"                |
+| sepaidw:20540 | "Lon Mor"                             | "150375"                |
+| sepaidw:5120  | "Bothwell Water"                      | "150141"                |
+| sepaidw:6535  | "River Ericht"                        | "150285"                |
+| sepaidw:20729 | "Red Burn"                            | "150042"                |
+| sepaidw:5812  | "Burn of Heughs"                      | "150387"                |
+| sepaidw:5401  | "Halter Burn"                         | "150130"                |
+| sepaidw:20456 | "River Carron"                        | "150038"                |
+| sepaidw:10463 | "Palmullan Burn"                      | "150194"                |
+| sepaidw:6653  | "Lawers Burn"                         | "150290"                |
+| sepaidw:6816  | "River Lednock"                       | "150283"                |
+| sepaidw:10380 | "River Garnock"                       | "150199"                |
+| sepaidw:23211 | "Millden Burn"                        | "150370"                |
+| sepaidw:5296  | "Tushielaw Burn"                      | "150142"                |
+| sepaidw:20152 | "Killen Burn"                         | "150350"                |
+| sepaidw:10559 | "Water of Ken"                        | "150181"                |
+| sepaidw:23204 | "Burn of Auchmacoy"                   | "150303"                |
+| sepaidw:20295 | "Aldernaig Burn"                      | "150334"                |
+| sepaidw:20468 | "Abhainn Coire Mhic Nobuil"           | "150038"                |
+| sepaidw:23376 | "Gibbie Law's Burn"                   | "150002"                |
+| sepaidw:20760 | "Abhainn Mhor"                        | "150030"                |
+| sepaidw:20055 | "Loth Burn"                           | "150355"                |
+| sepaidw:10592 | "Culloch Burn"                        | "150180"                |
+| sepaidw:23641 | "Allt Bhran"                          | "150327"                |
+| sepaidw:20741 | "River Rha"                           | "150042"                |
+| sepaidw:10506 | "River Bladnoch"                      | "150189"                |
+| sepaidw:10328 | "Abhainn Tir Chonhuill"               | "150073"                |
+| sepaidw:23107 | "River Dulnain"                       | "150327"                |
+| sepaidw:20582 | "Clachan Burn"                        | "150364"                |
+| sepaidw:23394 | "River Ness"                          | "150345"                |
+| sepaidw:10605 | "Dalwhat Water"                       | "150173"                |
+| sepaidw:10163 | "Inveruglas Water"                    | "150082"                |
+| sepaidw:4709  | "Black Water"                         | "150081"                |
+| sepaidw:10196 | "Tamhnich Burn"                       | "150084"                |
+| sepaidw:10564 | "Pochriegavin Burn"                   | "150181"                |
+| sepaidw:20150 | "Newhall Burn"                        | "150350"                |
+| sepaidw:5799  | "River South Esk"                     | "150273"                |
+| sepaidw:6529  | "Lunan Burn"                          | "150261"                |
+| sepaidw:20020 | "Rimsdale Burn"                       | "150338"                |
+| sepaidw:10706 | "Duntocher Burn"                      | "150216"                |
+| sepaidw:10177 | "North Sannox Burn"                   | "150103"                |
+| sepaidw:6658  | "Allt Breaclaich"                     | "150290"                |
+| sepaidw:5204  | "River Tweed"                         | "150148"                |
+| sepaidw:5208  | "Leet Water"                          | "150125"                |
+| sepaidw:20373 | "River Arkaig"                        | "150377"                |
+| sepaidw:23391 | "Allt Loch an Tuirc"                  | "150375"                |
+| sepaidw:6701  | "River Farg"                          | "150250"                |
+| sepaidw:10924 | "River Doon"                          | "150194"                |
+| sepaidw:10722 | "River Dee"                           | "150181"                |
+| sepaidw:10523 | "Fardin Burn"                         | "150189"                |
+| sepaidw:20822 | "Abhainn thernaraigh"                 | "150383"                |
+| sepaidw:10630 | "Cample Water"                        | "150115"                |
+| sepaidw:20631 | "Burn of Ham"                         | "150361"                |
+| sepaidw:10301 | "River Nant"                          | "150075"                |
+| sepaidw:23201 | "Water of Cruden"                     | "150303"                |
+| sepaidw:20500 | "Strathan Buidhe"                     | "150375"                |
+| sepaidw:23007 | "Rhilean Burn"                        | "150333"                |
+| sepaidw:4602  | "Wharry Burn"                         | "150276"                |
+| sepaidw:5281  | "Gala Water"                          | "150142"                |
+| sepaidw:10222 | "Kilblaan Burn"                       | "150084"                |
+| sepaidw:10209 | "River Fachaig"                       | "150084"                |
+| sepaidw:23233 | "River Ythan"                         | "150300"                |
+| sepaidw:10513 | "Black Burn"                          | "150189"                |
+| sepaidw:20200 | "Abhainn a' Chadh' Bhuidhe"           | "150039"                |
+| sepaidw:6908  | "Brothie Burn"                        | "150235"                |
+| sepaidw:23206 | "Foveran Burn"                        | "150394"                |
+| sepaidw:23148 | "Allt Breakachy"                      | "150327"                |
+| sepaidw:10040 | "River Clyde"                         | "150220"                |
+| sepaidw:10500 | "Killantrae Burn"                     | "150185"                |
+| sepaidw:10279 | "Kilchrenan Burn"                     | "150075"                |
+| sepaidw:10042 | "River Clyde"                         | "150217"                |
+| sepaidw:20372 | "Allt Cam"                            | "150377"                |
+| sepaidw:10159 | "Finlas Water"                        | "150082"                |
+| sepaidw:20037 | "Wick River"                          | "150361"                |
+| sepaidw:20231 | "Allt Loch Calavie"                   | "150336"                |
+| sepaidw:20391 | "Abhainn na Coronich"                 | "150065"                |
+| sepaidw:23387 | "River Foyers"                        | "150334"                |
+| sepaidw:20121 | "River Einig"                         | "150366"                |
+| sepaidw:5275  | "Earnscleugh Water"                   | "150141"                |
+| sepaidw:5013  | "Horn Burn"                           | "150124"                |
+| sepaidw:23119 | "River Druie"                         | "150326"                |
+| sepaidw:20716 | "Abhainn Cille Mhaire"                | "150042"                |
+| sepaidw:20201 | "Allt Dearg"                          | "150039"                |
+| sepaidw:6625  | "River Ericht"                        | "150294"                |
+| sepaidw:10529 | "Shalloch Burn"                       | "150189"                |
+| sepaidw:5297  | "Rankle Burn"                         | "150142"                |
+| sepaidw:20403 | "Achateny Water"                      | "150065"                |
+| sepaidw:20211 | "River Affric"                        | "150336"                |
+| sepaidw:4205  | "Bonny Water"                         | "150234"                |
+| sepaidw:23250 | "Burn of Findon"                      | "150409"                |
+| sepaidw:10521 | "River Cree"                          | "150189"                |
+| sepaidw:20158 | "Alness River or River Averon"        | "150039"                |
+| sepaidw:20023 | "Allt an Loin Tharsuin"               | "150338"                |
+| sepaidw:20682 | "South Burn of Burrafirth"            | "150002"                |
+| sepaidw:23041 | "Leanoch Burn"                        | "150407"                |
+| sepaidw:23074 | "River Fiddich"                       | "150406"                |
+| sepaidw:20553 | "Ledmore River"                       | "150375"                |
+| sepaidw:4737  | "Garhb Uisge"                         | "150081"                |
+| sepaidw:6102  | "Motray Water"                        | "150252"                |
+| sepaidw:20633 | "Forss Water"                         | "150360"                |
+| sepaidw:10492 | "Water of Luce"                       | "150189"                |
+| sepaidw:20700 | "River Brogaig"                       | "150042"                |
+| sepaidw:4710  | "Black Water"                         | "150081"                |
+| sepaidw:10392 | "River Irvine"                        | "150207"                |
+| sepaidw:6619  | "Carie Burn"                          | "150294"                |
+| sepaidw:20433 | "River Elchaig"                       | "150038"                |
+| sepaidw:23086 | "River Avon"                          | "150405"                |
+| sepaidw:20035 | "Milton Burn"                         | "150361"                |
+| sepaidw:10675 | "White Esk"                           | "150158"                |
+| sepaidw:4007  | "Newhall Burn"                        | "150225"                |
+| sepaidw:20612 | "River Strathy"                       | "150364"                |
+| sepaidw:23315 | "River Dee"                           | "150297"                |
+| sepaidw:10666 | "Kirtle Water"                        | "150164"                |
+| sepaidw:10499 | "Lane Burn"                           | "150185"                |
+| sepaidw:6626  | "Allt Ghlas"                          | "150294"                |
+| sepaidw:10290 | "Allt Dochard"                        | "150075"                |
+| sepaidw:10698 | "Larriston Burn"                      | "150162"                |
+| sepaidw:23264 | "Bervie Water"                        | "150268"                |
+| sepaidw:23348 | "Glenfenzie Burn"                     | "150289"                |
+| sepaidw:10615 | "Glenwharrie Burn"                    | "150169"                |
+| sepaidw:20464 | "River Damh"                          | "150038"                |
+| sepaidw:20423 | "Inverie River"                       | "150038"                |
+| sepaidw:6905  | "Cambusmichael Burn"                  | "150260"                |
+| sepaidw:5225  | "Lake Burn"                           | "150130"                |
+| sepaidw:10537 | "Balloch Burn"                        | "150189"                |
+| sepaidw:6499  | "River Tay"                           | "150291"                |
+| sepaidw:6502  | "River Dochart"                       | "150290"                |
+| sepaidw:23225 | "Burn of Ludquharn"                   | "150301"                |
+| sepaidw:20334 | "Ciaran Water"                        | "150067"                |
+| sepaidw:5950  | "Elliot Water"                        | "150257"                |
+| sepaidw:23191 | "Kirkney Water"                       | "150402"                |
+| sepaidw:20232 | "River Cannich"                       | "150336"                |
+| sepaidw:6405  | "Invergowrie Burn"                    | "150256"                |
+| sepaidw:20407 | "River Ailort"                        | "150065"                |
+| sepaidw:20228 | "Allt a' Choire Fhionnaraich"         | "150336"                |
+| sepaidw:10661 | "Water of Ae"                         | "150175"                |
+| sepaidw:6560  | "Eassie Burn"                         | "150261"                |
+| sepaidw:23227 | "Crichie Burn"                        | "150301"                |
+| sepaidw:6508  | "River Almond"                        | "150290"                |
+| sepaidw:23169 | "Crombie Burn"                        | "150404"                |
+| sepaidw:6542  | "Drumturn Burn"                       | "150285"                |
+| sepaidw:20572 | "River Dionard"                       | "150028"                |
+| sepaidw:6550  | "Allt Doire nan Eun"                  | "150285"                |
+| sepaidw:20471 | "Badachro River"                      | "150038"                |
+| sepaidw:20357 | "Allt a Chamabhreac"                  | "150377"                |
+| sepaidw:10502 | "Black Ditch"                         | "150185"                |
+| sepaidw:10646 | "Water of Milk"                       | "150175"                |
+| sepaidw:23118 | "Auchgourish Burn"                    | "150326"                |
+| sepaidw:10259 | "The Lussa"                           | "150075"                |
+| sepaidw:20782 | "Abhainn Tamanabhaigh"                | "150030"                |
+| sepaidw:6651  | "Acharn Burn"                         | "150290"                |
+| sepaidw:6538  | "Benachally Burn"                     | "150285"                |
+| sepaidw:10334 | "River Ba"                            | "150073"                |
+| sepaidw:23083 | "Allt Gheallaidh"                     | "150407"                |
+| sepaidw:5262  | "Stockstruther Burn"                  | "150135"                |
+| sepaidw:6106  | "Unnamed burn"                        | "150247"                |
+| sepaidw:10723 | "Black Cart Water"                    | "150213"                |
+| sepaidw:10117 | "Camps Water"                         | "150157"                |
+| sepaidw:20027 | "Burn of Lyth"                        | "150361"                |
+| sepaidw:10746 | "Pow Burn"                            | "150204"                |
+| sepaidw:10191 | "Allt Osda"                           | "150084"                |
+| sepaidw:3706  | "Bavelaw Burn"                        | "150227"                |
+| sepaidw:20341 | "Kilfinnan Burn"                      | "150377"                |
+| sepaidw:10250 | "Skipness River"                      | "150385"                |
+| sepaidw:23150 | "Markie Burn"                         | "150327"                |
+| sepaidw:6841  | "Kiel Burn"                           | "150410"                |
+| sepaidw:10043 | "River Clyde"                         | "150156"                |
+| sepaidw:10047 | "Molendinar Burn"                     | "150219"                |
+| sepaidw:6567  | "Melgam Water"                        | "150262"                |
+| sepaidw:10923 | "Saligo River"                        | "150094"                |
+| sepaidw:10087 | "Dippool Water"                       | "150217"                |
+| sepaidw:20021 | "Allt Lon a' Chuil"                   | "150338"                |
+| sepaidw:20113 | "River Cassley"                       | "150033"                |
+| sepaidw:10192 | "River Auchalick"                     | "150084"                |
+| sepaidw:23324 | "Bo Burn"                             | "150392"                |
+| sepaidw:10252 | "Eas a Chais"                         | "150075"                |
+| sepaidw:23346 | "River Dee"                           | "150289"                |
+| sepaidw:10333 | "Lussa River"                         | "150073"                |
+| sepaidw:6612  | "Allt Con"                            | "150294"                |
+| sepaidw:20477 | "Abhainn Ghlas"                       | "150038"                |
+| sepaidw:10349 | "Saligo River"                        | "150094"                |
+| sepaidw:20466 | "Abhainn Dearg"                       | "150038"                |
+| sepaidw:23367 | "River Dee"                           | "150289"                |
+| sepaidw:10210 | "River Fachaig"                       | "150084"                |
+| sepaidw:20595 | "River Naver"                         | "150364"                |
+| sepaidw:10361 | "Machrie River"                       | "150094"                |
+| sepaidw:23382 | "River Moriston"                      | "150334"                |
+| sepaidw:10594 | "Fairgirth Lane"                      | "150180"                |
+| sepaidw:10462 | "Dyrock Burn"                         | "150194"                |
+| sepaidw:20162 | "River Glas"                          | "150352"                |
+| sepaidw:10118 | "Midlock Water"                       | "150157"                |
+| sepaidw:10003 | "Auldhouse Burn"                      | "150215"                |
+| sepaidw:20488 | "River Talladale"                     | "150038"                |
+| sepaidw:10170 | "Arklet Water"                        | "150082"                |
+| sepaidw:10925 | "River Doon"                          | "150194"                |
+| sepaidw:6571  | "Quharity Burn"                       | "150285"                |
+| sepaidw:5807  | "White Burn"                          | "150387"                |
+| sepaidw:10736 | "Garrion Burn"                        | "150218"                |
+| sepaidw:5228  | "Oxnam Water"                         | "150130"                |
+| sepaidw:20579 | "Kinloch River"                       | "150028"                |
+| sepaidw:20004 | "Allt Cille Pheadair"                 | "150338"                |
+| sepaidw:20627 | "Murkle Burn"                         | "150361"                |
+| sepaidw:10586 | "Auchenhay Burn"                      | "150181"                |
+| sepaidw:20075 | "Torbreck Burn"                       | "150358"                |
+| sepaidw:10350 | "Gortantaoid River"                   | "150094"                |
+| sepaidw:10758 | "River Esk"                           | "150158"                |
+| sepaidw:10311 | "River Noe"                           | "150075"                |
+| sepaidw:20666 | "Burn of Burrafirth"                  | "150000"                |
+| sepaidw:20469 | "Craig River"                         | "150038"                |
+| sepaidw:20264 | "River Enrick"                        | "150334"                |
+| sepaidw:10212 | "Lettermay Burn"                      | "150084"                |
+| sepaidw:20091 | "Edderton Burn"                       | "150353"                |
+| sepaidw:10747 | "Black Cart Water"                    | "150220"                |
+| sepaidw:23068 | "Red Burn"                            | "150342"                |
+| sepaidw:5902  | "Lunan Water"                         | "150266"                |
+| sepaidw:10375 | "Noddesdale Water"                    | "150202"                |
+| sepaidw:20245 | "Ardersier Burn"                      | "150343"                |
+| sepaidw:20212 | "River Affric"                        | "150336"                |
+| sepaidw:20388 | "River Gour"                          | "150067"                |
+| sepaidw:10234 | "Glenlussa Water"                     | "150385"                |
+| sepaidw:10200 | "Ardyne Burn"                         | "150084"                |
+| sepaidw:4319  | "Cocklemill Burn"                     | "150243"                |
+| sepaidw:20510 | "Abhainn Osgaig"                      | "150375"                |
+| sepaidw:5802  | "Pow Burn"                            | "150266"                |
+| sepaidw:4201  | "River Carron"                        | "150234"                |
+| sepaidw:23287 | "Burn of Durno"                       | "150399"                |
+| sepaidw:20638 | "River Thurso"                        | "150360"                |
+| sepaidw:20648 | "Allt Reidhe Mhoir"                   | "150360"                |
+| sepaidw:6576  | "River Braan"                         | "150290"                |
+| sepaidw:20724 | "River Drynoch"                       | "150042"                |
+| sepaidw:10721 | "Dusk Water"                          | "150199"                |
+| sepaidw:10549 | "Cooran Lane"                         | "150181"                |
+| sepaidw:3001  | "River Almond"                        | "150227"                |
+| sepaidw:6202  | "Ceres Burn"                          | "150411"                |
+| sepaidw:20080 | "Allt Garbh"                          | "150033"                |
+| sepaidw:20707 | "River Sligachan"                     | "150042"                |
+| sepaidw:10737 | "Kinnel Water"                        | "150118"                |
+| sepaidw:10217 | "Kinglas Water"                       | "150084"                |
+| sepaidw:6831  | "Bannock Burn"                        | "150395"                |
+| sepaidw:23354 | "River Muick"                         | "150289"                |
+| sepaidw:20430 | "River Shiel"                         | "150038"                |
+| sepaidw:6631  | "Abhainn Duibhe"                      | "150294"                |
+| sepaidw:10618 | "Crawick Water"                       | "150173"                |
+| sepaidw:23164 | "Burn of Tollo"                       | "150404"                |
+| sepaidw:10589 | "Kirkgunzeon Lane"                    | "150180"                |
+| sepaidw:10157 | "Burn of Mar"                         | "150275"                |
+| sepaidw:10218 | "River Fyne"                          | "150084"                |
+| sepaidw:6304  | "River Ore"                           | "150410"                |
+| sepaidw:6522  | "River Isla"                          | "150261"                |
+| sepaidw:20564 | "River Laxford"                       | "150375"                |
+| sepaidw:5116  | "Lintlaw Burn"                        | "150126"                |
+| sepaidw:20838 | "Ousdale Burn"                        | "150360"                |
+| sepaidw:23241 | "Bronie Burn"                         | "150300"                |
+| sepaidw:20374 | "River Pean"                          | "150377"                |
+| sepaidw:10584 | "Urr Water"                           | "150181"                |
+| sepaidw:6546  | "Glen Lochsie Burn"                   | "150285"                |
+| sepaidw:20644 | "Calder Water"                        | "150360"                |
+| sepaidw:20254 | "River Garry"                         | "150334"                |
+| sepaidw:10749 | "Mouse Water"                         | "150217"                |
+| sepaidw:20584 | "Swordly Burn"                        | "150364"                |
+| sepaidw:20268 | "Allt Chreac"                         | "150334"                |
+| sepaidw:23261 | "Den Finella"                         | "150269"                |
+| sepaidw:6656  | "Allt a' Mhoirneas"                   | "150290"                |
+| sepaidw:23357 | "Feardar Burn"                        | "150289"                |
+| sepaidw:20304 | "Abhainn Chosaidh"                    | "150334"                |
+| sepaidw:10249 | "Claonaig Water"                      | "150385"                |
+| sepaidw:6599  | "Fender Burn"                         | "150294"                |
+| sepaidw:23021 | "Mosset Burn"                         | "150332"                |
+| sepaidw:20090 | "Allt Muigh bhlaraidh"                | "150353"                |
+| sepaidw:20410 | "River Aline"                         | "150065"                |
+| sepaidw:5212  | "Unnamed burn"                        | "150125"                |
+| sepaidw:20306 | "River Nairn"                         | "150333"                |
+| sepaidw:4725  | "Allt Gleann nam Meann"               | "150081"                |
+| sepaidw:4727  | "Goodie Water"                        | "150276"                |
+| sepaidw:20277 | "Allt Odhar"                          | "150334"                |
+| sepaidw:20484 | "Kinlochewe River"                    | "150038"                |
+| sepaidw:23320 | "Gormack Burn"                        | "150409"                |
+| sepaidw:23268 | "Elrick Burn"                         | "150400"                |
+| sepaidw:6589  | "Abhainn Ba"                          | "150294"                |
+| sepaidw:20450 | "River Meoble"                        | "150038"                |
+| sepaidw:10468 | "Water of Tig"                        | "150189"                |
+| sepaidw:5118  | "Whare Burn"                          | "150124"                |
+| sepaidw:3300  | "Grange Burn"                         | "150234"                |
+| sepaidw:10745 | "Iorsa Water"                         | "150103"                |
+| sepaidw:20079 | "River Evelix"                        | "150033"                |
+| sepaidw:23282 | "River Urie"                          | "150371"                |
+| sepaidw:20736 | "Glenmore River"                      | "150042"                |
+| sepaidw:10372 | "Kip Water"                           | "150202"                |
+| sepaidw:10652 | "Whamphray Water"                     | "150175"                |
+| sepaidw:23372 | "Dinnet Burn"                         | "150299"                |
+| sepaidw:23362 | "Clunie Water"                        | "150289"                |
+| sepaidw:4206  | "Bonny Water"                         | "150234"                |
+| sepaidw:10692 | "Kershope Burn"                       | "150162"                |
+| sepaidw:6302  | "South Queich"                        | "150236"                |
+| sepaidw:20429 | "Glenmore River"                      | "150038"                |
+| sepaidw:23368 | "Geldie Burn"                         | "150289"                |
+| sepaidw:20447 | "Abhainn Ceann Loch morar"            | "150038"                |
+| sepaidw:6209  | "Kettle Burn"                         | "150249"                |
+| sepaidw:5001  | "Pease Burn"                          | "150124"                |
+| sepaidw:4308  | "Keithing Burn"                       | "150410"                |
+| sepaidw:20547 | "River Broom"                         | "150375"                |
+| sepaidw:20088 | "Easter Fearn Burn"                   | "150366"                |
+| sepaidw:20672 | "Burn of Grunnafirth"                 | "150002"                |
+| sepaidw:6911  | "River Garry"                         | "150294"                |
+| sepaidw:20727 | "Hamara River"                        | "150042"                |
+| sepaidw:20107 | "Allt an Tireidh"                     | "150033"                |
+| sepaidw:10329 | "Abhainn Tir Chonhuill"               | "150073"                |
+| sepaidw:10165 | "River Falloch"                       | "150082"                |
+| sepaidw:23349 | "Lary Burn"                           | "150289"                |
+| sepaidw:10420 | "River Ayr"                           | "150107"                |
+| sepaidw:5704  | "Water of Lee"                        | "150387"                |
+| sepaidw:10929 | "Board Burn"                          | "150219"                |
+| sepaidw:10084 | "Mouse Water"                         | "150217"                |
+| sepaidw:10257 | "Allt Cinn-locha"                     | "150075"                |
+| sepaidw:23214 | "South Mundurno Burn"                 | "150370"                |
+| sepaidw:10685 | "Bigholms Burn"                       | "150158"                |
+| sepaidw:20285 | "Allt Baile nan Carn"                 | "150334"                |
+| sepaidw:20168 | "River Conon"                         | "150039"                |
+| sepaidw:10198 | "Balliemore Burn"                     | "150084"                |
+| sepaidw:20698 | "Abhainn Rangail"                     | "150123"                |
+| sepaidw:10276 | "Abhainn Fionain"                     | "150075"                |
+| sepaidw:23290 | "Gadie Burn"                          | "150399"                |
+| sepaidw:5298  | "Caddon Water"                        | "150142"                |
+| sepaidw:6602  | "Tarf Water"                          | "150294"                |
+| sepaidw:10577 | "Buckland Burn"                       | "150180"                |
+| sepaidw:20412 | "River Shiel"                         | "150065"                |
+| sepaidw:20266 | "River Farigaig"                      | "150334"                |
+| sepaidw:3501  | "Braid Burn"                          | "150227"                |
+| sepaidw:20305 | "River Nairn"                         | "150330"                |
+| sepaidw:4320  | "Cocklemill Burn"                     | "150410"                |
+| sepaidw:6820  | "Tarken Burn"                         | "150283"                |
+| sepaidw:20717 | "Abhainn Camas Fhionnairigh"          | "150042"                |
+| sepaidw:10571 | "Knocknairling Burn"                  | "150181"                |
+| sepaidw:5202  | "River Tweed"                         | "150142"                |
+| sepaidw:23316 | "River Dee"                           | "150297"                |
+| sepaidw:10407 | "Avon Water"                          | "150215"                |
+| sepaidw:10332 | "Coladoir River"                      | "150073"                |
+| sepaidw:10930 | "Polmadie Burn"                       | "150220"                |
+| sepaidw:20365 | "Allt Cam"                            | "150377"                |
+| sepaidw:10547 | "River Dee"                           | "150181"                |
+| sepaidw:6882  | "Tiel Burn"                           | "150410"                |
+| sepaidw:20545 | "Allt Creag Odhar"                    | "150375"                |
+| sepaidw:23047 | "Burn of Tynet"                       | "150342"                |
+| sepaidw:10321 | "River Creran"                        | "150067"                |
+| sepaidw:4706  | "Avondhu Burn"                        | "150081"                |
+| sepaidw:6308  | "Lochfitty Burn"                      | "150410"                |
+| sepaidw:20594 | "An Garbh-allt"                       | "150364"                |
+| sepaidw:20455 | "River Carron"                        | "150038"                |
+| sepaidw:20674 | "Burn of Dale"                        | "150002"                |
+| sepaidw:20723 | "Vikisgill Burn"                      | "150042"                |
+| sepaidw:6645  | "Allt Gleann Da-Eig"                  | "150290"                |
+| sepaidw:23060 | "Burn of Strathbeg"                   | "150302"                |
+| sepaidw:5101  | "Whiteadder Water"                    | "150124"                |
+| sepaidw:10031 | "River Gryfe"                         | "150214"                |
+| sepaidw:20839 | "River Grudie"                        | "150039"                |
+| sepaidw:6627  | "Cam Chriochan"                       | "150294"                |
+| sepaidw:23365 | "Ey Burn"                             | "150289"                |
+| sepaidw:4701  | "River Forth"                         | "150276"                |
+| sepaidw:10627 | "Druidhill Burn"                      | "150173"                |
+| sepaidw:20330 | "River Leven"                         | "150067"                |
+| sepaidw:10671 | "Black Sark"                          | "150164"                |
+| sepaidw:20691 | "Swanney Burn"                        | "150021"                |
+| sepaidw:20311 | "Allt na Fuar-ghlaic"                 | "150333"                |
+| sepaidw:20038 | "Achairn Burn"                        | "150361"                |
+| sepaidw:5105  | "Blackadder Water"                    | "150126"                |
+| sepaidw:4704  | "River Forth"                         | "150276"                |
+| sepaidw:6837  | "River Garry"                         | "150294"                |
+| sepaidw:20316 | "Muckle Burn"                         | "150341"                |
+| sepaidw:10045 | "Polmadie Burn"                       | "150220"                |
+| sepaidw:10229 | "Breackerie Water"                    | "150385"                |
+| sepaidw:20381 | "An Suileag"                          | "150067"                |
+| sepaidw:23255 | "Cowton Burn"                         | "150409"                |
+| sepaidw:10219 | "Allt na Lairige"                     | "150084"                |
+| sepaidw:23039 | "River Lossie"                        | "150340"                |
+| sepaidw:20503 | "Dundonnell River"                    | "150375"                |
+| sepaidw:20449 | "River Meoble"                        | "150038"                |
+| sepaidw:5114  | "Billie Burn"                         | "150128"                |
+| sepaidw:20409 | "Brunery Burn"                        | "150065"                |
+| sepaidw:23058 | "Kessock Burn"                        | "150302"                |
+| sepaidw:5260  | "Limiecleuch Burn"                    | "150155"                |
+| sepaidw:23084 | "River Avon"                          | "150318"                |
+| sepaidw:10555 | "Crae Lane"                           | "150180"                |
+| sepaidw:23371 | "River Carron"                        | "150038"                |
+| sepaidw:23643 | "Aldernaig Burn"                      | "150334"                |
+| sepaidw:20132 | "Allt Crom-loch"                      | "150366"                |
+| sepaidw:20610 | "River Strathy"                       | "150364"                |
+| sepaidw:6817  | "Ruchill Water"                       | "150277"                |
+| sepaidw:20673 | "Burn of Strand"                      | "150002"                |
+| sepaidw:20144 | "Roskeen Burn"                        | "150353"                |
+| sepaidw:23366 | "Lui Water"                           | "150289"                |
+| sepaidw:5953  | "Barry Burn"                          | "150257"                |
+| sepaidw:10489 | "Culmore Burn"                        | "150121"                |
+| sepaidw:10511 | "Pulganny Burn"                       | "150189"                |
+| sepaidw:10538 | "Skyre Burn"                          | "150181"                |
+| sepaidw:3703  | "Water of Leith"                      | "150227"                |
+| sepaidw:3911  | "Pilmuir Burn"                        | "150224"                |
+| sepaidw:20437 | "River Attadale"                      | "150038"                |
+| sepaidw:20818 | "Outflow from Loch Bail'-fhionnlaidh" | "150051"                |
+| sepaidw:20040 | "Loch Burn"                           | "150362"                |
+| sepaidw:20485 | "Abainn Bruchaig"                     | "150038"                |
+| sepaidw:20683 | "Suso Burn"                           | "150018"                |
+| sepaidw:10062 | "North Calder Water"                  | "150218"                |
+| sepaidw:20223 | "Neaty Burn"                          | "150336"                |
+| sepaidw:23008 | "Funtack Burn"                        | "150328"                |
+| sepaidw:20629 | "Burn of Midsand"                     | "150361"                |
+| sepaidw:3004  | "Gogar Burn"                          | "150227"                |
+| sepaidw:10251 | "Abhainn Learg an Uinnsinn"           | "150075"                |
+| sepaidw:6201  | "River Eden"                          | "150249"                |
+| sepaidw:6617  | "Allt Kynachan"                       | "150294"                |
+| sepaidw:20109 | "Abhainn a Choire"                    | "150033"                |
+| sepaidw:5954  | "Buddon Burn"                         | "150257"                |
+| sepaidw:6844  | "Whiteadder Water"                    | "150126"                |
+| sepaidw:23199 | "Slains Burn"                         | "150303"                |
+| sepaidw:23238 | "Burn of Sessnie"                     | "150300"                |
+| sepaidw:23143 | "Miltron Burn"                        | "150327"                |
+| sepaidw:5603  | "Brothock Water"                      | "150272"                |
+| sepaidw:20712 | "Allt a Ghlinne"                      | "150042"                |
+| sepaidw:20628 | "Burn of Garth"                       | "150361"                |
+| sepaidw:23132 | "River Eidart"                        | "150327"                |
+| sepaidw:23300 | "Kindie Burn"                         | "150397"                |
+| sepaidw:20364 | "River Ossian"                        | "150377"                |
+| sepaidw:20394 | "Savary River"                        | "150065"                |
+| sepaidw:20220 | "River Farrar"                        | "150336"                |
+| sepaidw:10007 | "Levern Water"                        | "150220"                |
+| sepaidw:6588  | "Garbh Ghaoir"                        | "150294"                |
+| sepaidw:10505 | "Drummullin Burn"                     | "150185"                |
+| sepaidw:20284 | "Allt Phocaichain"                    | "150334"                |
+| sepaidw:20573 | "Strath Coille na Fearna"             | "150028"                |
+| sepaidw:10919 | "River Clyde"                         | "150218"                |
+| sepaidw:20362 | "Abhainn Ghuilbinn"                   | "150377"                |
+| sepaidw:10367 | "Glenbatrick River"                   | "150090"                |
+| sepaidw:6585  | "River Tummel"                        | "150294"                |
+| sepaidw:10107 | "Culter Water"                        | "150157"                |
+| sepaidw:10309 | "Abhainn Teithil"                     | "150075"                |
+| sepaidw:5207  | "Leet Water"                          | "150125"                |
+| sepaidw:10139 | "Bothlin Burn"                        | "150219"                |
+| sepaidw:10240 | "Clachaig Water"                      | "150385"                |
+| sepaidw:5337  | "Fruid Water"                         | "150142"                |
+| sepaidw:6540  | "Black Water"                         | "150286"                |
+| sepaidw:20163 | "River Glas"                          | "150039"                |
+| sepaidw:23000 | "River Findhorn"                      | "150341"                |
+| sepaidw:4601  | "Allan Water"                         | "150276"                |
+| sepaidw:23351 | "River Muick"                         | "150289"                |
+| sepaidw:6410  | "Cairnie Pow"                         | "150259"                |
+| sepaidw:10616 | "Kello Water"                         | "150173"                |
+| sepaidw:23310 | "Ton Burn"                            | "150398"                |
+| sepaidw:5271  | "Boondreigh Water"                    | "150133"                |
+| sepaidw:23050 | "Deskford Burn"                       | "150311"                |
+| sepaidw:3022  | "Breich Water"                        | "150234"                |
+| sepaidw:20505 | "Ullapool River"                      | "150375"                |
+| sepaidw:10476 | "Water of Gregg"                      | "150189"                |
+| sepaidw:10114 | "Black Burn"                          | "150217"                |
+| sepaidw:3203  | "Sauchenford Burn"                    | "150234"                |
+| sepaidw:10080 | "Nethan Water"                        | "150217"                |
+| sepaidw:10294 | "River Oude"                          | "150075"                |
+| sepaidw:20632 | "Link Burn"                           | "150361"                |
+| sepaidw:23141 | "Allt Garbh Ghaig"                    | "150327"                |
+| sepaidw:3808  | "River North Esk"                     | "150226"                |
+| sepaidw:20392 | "Glensanda River"                     | "150065"                |
+| sepaidw:20494 | "A' Ghairbhe"                         | "150038"                |
+| sepaidw:10035 | "Locher Water"                        | "150214"                |
+| sepaidw:5254  | "Borthwick Water"                     | "150155"                |
+| sepaidw:23145 | "River Calder"                        | "150327"                |
+| sepaidw:20111 | "River Cassley"                       | "150033"                |
+| sepaidw:5226  | "Fawlaws Burn"                        | "150135"                |
+| sepaidw:5233  | "Kaim Burn"                           | "150130"                |
+| sepaidw:20333 | "Allt na h-Eilde"                     | "150067"                |
+| sepaidw:10292 | "Water of Tulla"                      | "150075"                |
+| sepaidw:20733 | "River Snizort"                       | "150042"                |
+| sepaidw:20247 | "Ardersier Burn"                      | "150343"                |
+| sepaidw:5232  | "Jed Water"                           | "150136"                |
+| sepaidw:23025 | "Millie Burn"                         | "150340"                |
+| sepaidw:10273 | "Kames River"                         | "150075"                |
+| sepaidw:10465 | "River Stinchar"                      | "150191"                |
+| sepaidw:5903  | "Gighty Burn"                         | "150266"                |
+| sepaidw:5700  | "River North Esk"                     | "150269"                |
+| sepaidw:3008  | "Brox Burn"                           | "150227"                |
+| sepaidw:20571 | "Grudie River"                        | "150028"                |
+| sepaidw:23226 | "Quhomery Burn"                       | "150301"                |
+| sepaidw:20498 | "Little Gruinard River"               | "150375"                |
+| sepaidw:20635 | "Forss Water"                         | "150360"                |
+| sepaidw:23055 | "Boyndie Burn"                        | "150311"                |
+| sepaidw:6320  | "North Queich"                        | "150236"                |
+| sepaidw:3818  | "Dalhousie Bur"                       | "150226"                |
+| sepaidw:10268 | "River Add"                           | "150075"                |
+| sepaidw:20587 | "Strathmore River"                    | "150028"                |
+| sepaidw:6616  | "Allt Kinardochy"                     | "150294"                |
+| sepaidw:23037 | "Mosstowie Canal"                     | "150340"                |
+| sepaidw:23309 | "Cluny Burn"                          | "150398"                |
+| sepaidw:23043 | "River Lossie"                        | "150407"                |
+| sepaidw:20384 | "North Garvan River"                  | "150067"                |
+| sepaidw:20559 | "River Traligill"                     | "150375"                |
+| sepaidw:20026 | "Burn of Lyth"                        | "150391"                |
+| sepaidw:6581  | "Dowally Burn"                        | "150290"                |
+| sepaidw:10519 | "Bishop Burn"                         | "150189"                |
+| sepaidw:10598 | "New Abbey Pow"                       | "150171"                |
+| sepaidw:20773 | "Allt Dubh"                           | "150030"                |
+| sepaidw:5295  | "Megget Water"                        | "150142"                |
+| sepaidw:20246 | "Unnamed burn"                        | "150343"                |
+| sepaidw:23363 | "Quoich Water"                        | "150289"                |
+| sepaidw:20606 | "Allt Coire na Fearna"                | "150364"                |
+| sepaidw:20153 | "Killen Burn"                         | "150350"                |
+| sepaidw:6504  | "River Dochart"                       | "150290"                |
+| sepaidw:10099 | "Carmichael Burn"                     | "150217"                |
+| sepaidw:3103  | "Mains Burn"                          | "150237"                |
+| sepaidw:20206 | "Allt Gharagain"                      | "150039"                |
+| sepaidw:10285 | "River Orchy"                         | "150075"                |
+| sepaidw:10507 | "River Bladnoch"                      | "150189"                |
+| sepaidw:20452 | "River Ling"                          | "150038"                |
+| sepaidw:5302  | "Glentress Burn"                      | "150142"                |
+| sepaidw:20332 | "Allt na h-Eilde"                     | "150067"                |
+| sepaidw:20778 | "Abhainn Eabhal"                      | "150030"                |
+| sepaidw:20002 | "River Helmsdale"                     | "150339"                |
+| sepaidw:10728 | "Camps Water"                         | "150157"                |
+| sepaidw:20493 | "Abhainn an Fhasaigh"                 | "150038"                |
+| sepaidw:23262 | "Bervie Water"                        | "150268"                |
+| sepaidw:23136 | "Raitts Burn"                         | "150327"                |
+| sepaidw:6107  | "Kinness Burn"                        | "150243"                |
+| sepaidw:23176 | "Burn of Aultmore"                    | "150403"                |
+| sepaidw:5800  | "River South Esk"                     | "150387"                |
+| sepaidw:3910  | "East Peffer Burn"                    | "150231"                |
+| sepaidw:5246  | "Harwood Burn"                        | "150155"                |
+| sepaidw:10286 | "River Lochy"                         | "150075"                |
+| sepaidw:10522 | "River Cree"                          | "150189"                |
+| sepaidw:10645 | "Water of Milk"                       | "150179"                |
+| sepaidw:20207 | "Moniack Burn"                        | "150356"                |
+| sepaidw:20762 | "Abhainn Gleann Airigh an Domhnall"   | "150030"                |
+| sepaidw:10440 | "Culroy Burn"                         | "150194"                |
+| sepaidw:20425 | "River Barrisdale"                    | "150038"                |
+| sepaidw:10757 | "Water of Girvan"                     | "150194"                |
+| sepaidw:10297 | "River Euchar"                        | "150075"                |
+| sepaidw:20147 | "River Peffery"                       | "150347"                |
+| sepaidw:5284  | "Cockholm Burn"                       | "150142"                |
+| sepaidw:5236  | "Ale Water"                           | "150155"                |
+| sepaidw:10450 | "Whitespout Lane"                     | "150189"                |
+| sepaidw:6823  | "Burn of Ample"                       | "150283"                |
+| sepaidw:20010 | "River Helmsdale"                     | "150338"                |
+| sepaidw:6808  | "Machanay Water"                      | "150277"                |
+| sepaidw:10437 | "Slaphouse Burn"                      | "150194"                |
+| sepaidw:10267 | "Rhudil Burn"                         | "150075"                |
+| sepaidw:6518  | "Ordie Burn"                          | "150290"                |
+| sepaidw:10271 | "Clachandubh Burn"                    | "150075"                |
+| sepaidw:23131 | "Allt Fhearnasdail"                   | "150323"                |
+| sepaidw:20541 | "Strath Chailleach"                   | "150375"                |
+| sepaidw:23126 | "Allt na Fearna"                      | "150327"                |
+| sepaidw:10578 | "Dunrod Burn"                         | "150180"                |
+| sepaidw:6104  | "Morton Burn"                         | "150247"                |
+| sepaidw:20501 | "Inverianvie River"                   | "150375"                |
+| sepaidw:10314 | "Allt Easach"                         | "150075"                |
+| sepaidw:20462 | "Abhainn Dubh"                        | "150038"                |
+| sepaidw:4326  | "St Monance Burn"                     | "150243"                |
+| sepaidw:10376 | "Gogo Water"                          | "150203"                |
+| sepaidw:20424 | "Abhainn Inbhir Ghuiserein"           | "150038"                |
+| sepaidw:6500  | "River Tay"                           | "150291"                |
+| sepaidw:20615 | "Halladale River"                     | "150364"                |
+| sepaidw:5103  | "Whiteadder Water"                    | "150141"                |
+| sepaidw:10074 | "South Calder Water"                  | "150218"                |
+| sepaidw:20539 | "Lon Mor"                             | "150375"                |
+| sepaidw:23360 | "Allt an t-Slugain"                   | "150289"                |
+| sepaidw:3814  | "Glencorse Burn"                      | "150228"                |
+| sepaidw:3201  | "Pow Burn"                            | "150234"                |
+| sepaidw:10432 | "Guelt Water"                         | "150197"                |
+| sepaidw:23186 | "Black Water"                         | "150401"                |
+| sepaidw:20544 | "Abhainn Srath na Sealga"             | "150375"                |
+| sepaidw:10600 | "Cargen Pow"                          | "150166"                |
+| sepaidw:20475 | "River Kerry"                         | "150038"                |
+| sepaidw:20083 | "Allt Mor"                            | "150033"                |
+| sepaidw:10611 | "River Nith"                          | "150169"                |
+| sepaidw:20340 | "River Lochy"                         | "150377"                |
+| sepaidw:20289 | "River Loyne"                         | "150334"                |
+| sepaidw:20070 | "River Fleet"                         | "150358"                |
+| sepaidw:5201  | "River Tweed"                         | "150127"                |
+| sepaidw:10455 | "Water of Girvan"                     | "150194"                |
+| sepaidw:10595 | "Boreland Burn"                       | "150180"                |
+| sepaidw:5303  | "Quair Water"                         | "150142"                |
+| sepaidw:20149 | "Ussie Burn"                          | "150352"                |
+| sepaidw:6212  | "Auchtermuchty Burn"                  | "150250"                |
+| sepaidw:20486 | "Inveran River"                       | "150038"                |
+| sepaidw:20669 | "Burn of Roerwater"                   | "150002"                |
+| sepaidw:20141 | "Balnagown River"                     | "150353"                |
+| sepaidw:10315 | "River Etive"                         | "150075"                |
+| sepaidw:20056 | "Golspie Burn"                        | "150355"                |
+| sepaidw:20234 | "Abhainn a' Choilich"                 | "150336"                |
+| sepaidw:20065 | "River Skinsdale"                     | "150358"                |
+| sepaidw:6613  | "Allt Ruighenan Saorach"              | "150294"                |
+| sepaidw:5272  | "Blythe Water"                        | "150141"                |
+| sepaidw:20739 | "River Hinnisdal"                     | "150042"                |
+| sepaidw:5325  | "Biggar Water"                        | "150149"                |
+| sepaidw:20087 | "Allt Coire Bhenneit"                 | "150366"                |
+| sepaidw:23337 | "Unnamed burn"                        | "150409"                |
+| sepaidw:23059 | "Water of Philorth"                   | "150302"                |
+| sepaidw:10534 | "Palnure Burn"                        | "150189"                |
+| sepaidw:10656 | "Broadshaw Water"                     | "150175"                |
+| sepaidw:4730  | "Mye Burn"                            | "150276"                |
+| sepaidw:5278  | "Mountmill Burn"                      | "150142"                |
+| sepaidw:5223  | "Kale Water"                          | "150130"                |
+| sepaidw:20377 | "Allt Camgharaidh"                    | "150377"                |
+| sepaidw:6404  | "Huntly Burn"                         | "150259"                |
+| sepaidw:6606  | "Feith Ghorm Aill eag"                | "150294"                |
+| sepaidw:20281 | "River Moriston"                      | "150334"                |
+| sepaidw:6205  | "Foodieash Burn"                      | "150250"                |
+| sepaidw:10556 | "Shirmers Burn"                       | "150181"                |
+| sepaidw:20740 | "River Conon"                         | "150042"                |
+| sepaidw:20548 | "River Broom"                         | "150375"                |
+| sepaidw:10183 | "Benlister Burn"                      | "150104"                |
+| sepaidw:10030 | "River Gryfe"                         | "150220"                |
+| sepaidw:5714  | "West Water"                          | "150387"                |
+| sepaidw:10443 | "Linn Water"                          | "150194"                |
+| sepaidw:10330 | "Beach River"                         | "150073"                |
+| sepaidw:20344 | "Allt Achadh na Dalach"               | "150067"                |
+| sepaidw:6548  | "Allt Menach"                         | "150285"                |
+| sepaidw:10624 | "Scar Water"                          | "150115"                |
+| sepaidw:20439 | "River Kishorn"                       | "150038"                |
+| sepaidw:20298 | "Allt Ladaidh"                        | "150334"                |
+| sepaidw:3206  | "Pow Burn"                            | "150234"                |
+| sepaidw:20537 | "Allt na Claise Carnaich"             | "150375"                |
+| sepaidw:4211  | "Auchenbowie Burn"                    | "150395"                |
+| sepaidw:20073 | "Abhainn an t-Sratha Carnaig"         | "150358"                |
+| sepaidw:6301  | "River Leven"                         | "150246"                |
+| sepaidw:23294 | "River Don"                           | "150373"                |
+| sepaidw:20057 | "River Brora"                         | "150357"                |
+| sepaidw:10359 | "Claggain River"                      | "150094"                |
+| sepaidw:20166 | "River Conon"                         | "150352"                |
+| sepaidw:20291 | "Allt Doe"                            | "150334"                |
+| sepaidw:10552 | "Pullaugh Burn"                       | "150181"                |
+| sepaidw:20715 | "Abhainn an t-Sratha Mhoir"           | "150042"                |
+| sepaidw:10687 | "Liddel Water"                        | "150162"                |
+| sepaidw:20328 | "River Kiachnish"                     | "150067"                |
+| sepaidw:6648  | "Allt Conait"                         | "150290"                |
+| sepaidw:23157 | "Rosy Burn"                           | "150404"                |
+| sepaidw:20095 | "Merkland River"                      | "150033"                |
+| sepaidw:10401 | "Dunton Water"                        | "150200"                |
+| sepaidw:3003  | "River Almond"                        | "150234"                |
+| sepaidw:20180 | "Black Water"                         | "150039"                |
+| sepaidw:6814  | "Balmenoch Burn"                      | "150283"                |
+| sepaidw:3800  | "River Esk"                           | "150226"                |
+| sepaidw:10759 | "Glinger Burn"                        | "150162"                |
+| sepaidw:20205 | "Allt a Bhuird Ruaidh"                | "150039"                |
+| sepaidw:10155 | "Carnock Burn"                        | "150275"                |
+| sepaidw:10545 | "River Dee"                           | "150180"                |
+| sepaidw:10394 | "Annick Water"                        | "150198"                |
+| sepaidw:20009 | "Borrobol Burn"                       | "150338"                |
+| sepaidw:20687 | "Mill Burn"                           | "150021"                |
+| sepaidw:23230 | "South Ugie Water"                    | "150301"                |
+| sepaidw:20714 | "Abhainn Ceann"                       | "150042"                |
+| sepaidw:3908  | "Thornton Burn"                       | "150225"                |
+| sepaidw:23094 | "Burn of Loin"                        | "150405"                |
+| sepaidw:6004  | "Fithie Burn"                         | "150256"                |
+| sepaidw:3020  | "Lochshot Burn"                       | "150227"                |
+| sepaidw:4000  | "River Tyne"                          | "150225"                |
+| sepaidw:6524  | "River Isla"                          | "150285"                |
+| sepaidw:10453 | "Milton Burn"                         | "150195"                |
+| sepaidw:6620  | "Allt a' Chreagain Odhair"            | "150294"                |
+| sepaidw:20416 | "Glenaladale River"                   | "150065"                |
+| sepaidw:3903  | "Spott Burn"                          | "150225"                |
+| sepaidw:10205 | "River Fachaig"                       | "150084"                |
+| sepaidw:6659  | "Achmore Burn"                        | "150290"                |
+| sepaidw:20263 | "River Enrick"                        | "150334"                |
+| sepaidw:23045 | "Stripe Burn"                         | "150342"                |
+| sepaidw:23216 | "Crooko Burn"                         | "150301"                |
+| sepaidw:20296 | "Aldernaig Burn"                      | "150334"                |
+| sepaidw:20730 | "Abhainn Choishleadar"                | "150042"                |
+| sepaidw:10308 | "River Esragan"                       | "150075"                |
+| sepaidw:20352 | "River Roy"                           | "150377"                |
+| sepaidw:6655  | "Allt a' Mhoirneas"                   | "150290"                |
+| sepaidw:20705 | "River Leasgeary"                     | "150042"                |
+| sepaidw:10622 | "Marr Burn"                           | "150173"                |
+| sepaidw:20570 | "Daill River"                         | "150028"                |
+| sepaidw:6812  | "Turrent Burn"                        | "150283"                |
+| sepaidw:10189 | "Machrie Water"                       | "150104"                |
+| sepaidw:10567 | "Garryhorn Burn"                      | "150181"                |
+| sepaidw:20325 | "River Coe"                           | "150067"                |
+| sepaidw:10153 | "Endrick Water"                       | "150275"                |
+| sepaidw:23012 | "River Findhorn"                      | "150328"                |
+| sepaidw:10743 | "Luggie Burn"                         | "150218"                |
+| sepaidw:10202 | "Little Eachaig River"                | "150084"                |
+| sepaidw:10426 | "Water of Fail"                       | "150107"                |
+| sepaidw:10439 | "Carrick Lane"                        | "150189"                |
+| sepaidw:20213 | "Belladrum Burn"                      | "150356"                |
+| sepaidw:10539 | "Water of Fleet"                      | "150181"                |
+| sepaidw:5952  | "Monikie Burn"                        | "150257"                |
+| sepaidw:20522 | "Oldany River"                        | "150375"                |
+| sepaidw:20480 | "Allt a' Cham Loin Mhoir"             | "150038"                |
+| sepaidw:23240 | "Ebrie Burn"                          | "150300"                |
+| sepaidw:20116 | "River Oykel"                         | "150366"                |
+| sepaidw:23092 | "Conglass Water"                      | "150405"                |
+| sepaidw:23223 | "Greenspeck Burn"                     | "150301"                |
+| sepaidw:20239 | "Mill Burn"                           | "150345"                |
+| sepaidw:6838  | "River Earn"                          | "150278"                |
+| sepaidw:10353 | "River Sorn"                          | "150094"                |
+| sepaidw:6832  | "Allan Water"                         | "150276"                |
+| sepaidw:5279  | "Allan Water"                         | "150142"                |
+| sepaidw:20272 | "Allt an Loin"                        | "150334"                |
+| sepaidw:20142 | "Burn of Tullich"                     | "150353"                |
+| sepaidw:20678 | "Stromfirth Burn"                     | "150002"                |
+| sepaidw:20175 | "River Orrin"                         | "150039"                |
+| sepaidw:20131 | "Abhainn a Ghlinne Mhoir"             | "150366"                |
+| sepaidw:10582 | "Potterland Lane"                     | "150180"                |
+| sepaidw:23289 | "Bonnyton Burn"                       | "150399"                |
+| sepaidw:23138 | "River Tromie"                        | "150327"                |
+| sepaidw:23329 | "Water of Dye"                        | "150408"                |
+| sepaidw:10469 | "Duisk River"                         | "150189"                |
+| sepaidw:10352 | "Abhainn Araig"                       | "150094"                |
+| sepaidw:20084 | "Kilmachalmack Burn"                  | "150366"                |
+| sepaidw:20481 | "Allt na Coille"                      | "150038"                |
+| sepaidw:10632 | "Clauchrie Burn"                      | "150173"                |
+| sepaidw:10452 | "Black Garpel"                        | "150189"                |
+| sepaidw:20738 | "River Romesdal"                      | "150042"                |
+| sepaidw:10235 | "Glenlussa Water"                     | "150385"                |
+| sepaidw:5206  | "Bannock Burn"                        | "150125"                |
+| sepaidw:4005  | "Gifford Water"                       | "150225"                |
+| sepaidw:23010 | "Allt Bruachaig"                      | "150333"                |
+| sepaidw:20103 | "Allt a' Bhunn"                       | "150033"                |
+| sepaidw:23284 | "Lochter Water"                       | "150399"                |
+| sepaidw:10659 | "Garrel Water"                        | "150118"                |
+| sepaidw:10378 | "Stevenston Burn"                     | "150199"                |
+| sepaidw:20184 | "Allt a' Mhuillinn"                   | "150039"                |
+| sepaidw:20270 | "River Killin"                        | "150334"                |
+| sepaidw:23110 | "Allt an Aonaich"                     | "150327"                |
+| sepaidw:20193 | "River Meig"                          | "150039"                |
+| sepaidw:23062 | "Black Water"                         | "150302"                |
+| sepaidw:10262 | "Dippin Burn"                         | "150084"                |
+| sepaidw:20832 | "Mallart River"                       | "150364"                |
+| sepaidw:20323 | "River Duror"                         | "150067"                |
+| sepaidw:20677 | "Burn of Hillwell"                    | "150002"                |
+| sepaidw:23151 | "River Spey"                          | "150327"                |
+| sepaidw:20427 | "River Arnisdale"                     | "150038"                |
+| sepaidw:10335 | "Glencannel River"                    | "150073"                |
+| sepaidw:23217 | "Faichfield Burn"                     | "150301"                |
+| sepaidw:6563  | "Gairie Burn"                         | "150261"                |
+| sepaidw:10220 | "River Shira"                         | "150084"                |
+| sepaidw:20097 | "Allt na Fearna Mor"                  | "150033"                |
+| sepaidw:10585 | "Crogo Burn"                          | "150181"                |
+| sepaidw:20607 | "Allt Gruama Beag"                    | "150364"                |
+| sepaidw:10258 | "Inverneil Burn"                      | "150075"                |
+| sepaidw:10193 | "Kilfinan Burn"                       | "150084"                |
+| sepaidw:3804  | "River South Esk"                     | "150226"                |
+| sepaidw:10695 | "Hermitage Water"                     | "150158"                |
+| sepaidw:10679 | "Meggat Water"                        | "150158"                |
+| sepaidw:6608  | "Allt Glas Choire"                    | "150294"                |
+| sepaidw:23254 | "Cowie Water"                         | "150409"                |
+| sepaidw:6574  | "Newton Burn"                         | "150285"                |
+| sepaidw:10435 | "Dippol Burn"                         | "150197"                |
+| sepaidw:10291 | "Allt Bhreacnais"                     | "150075"                |
+| sepaidw:3806  | "River North Esk"                     | "150226"                |
+| sepaidw:4716  | "Keltie Water"                        | "150081"                |
+| sepaidw:10166 | "River Falloch"                       | "150082"                |
+| sepaidw:20299 | "Greenfield Burn"                     | "150334"                |
+| sepaidw:10362 | "Kintra River"                        | "150094"                |
+| sepaidw:10421 | "River Ayr"                           | "150197"                |
+| sepaidw:23053 | "Durn Burn"                           | "150311"                |
+| sepaidw:23297 | "Water of Carvie"                     | "150397"                |
+| sepaidw:23398 | "Rough Burn"                          | "150343"                |
+| sepaidw:3913  | "Harestanes Burn"                     | "150224"                |
+| sepaidw:10655 | "Garpol Water"                        | "150175"                |
+| sepaidw:10430 | "Lugar Water"                         | "150197"                |
+| sepaidw:10338 | "Ensay Burn"                          | "150073"                |
+| sepaidw:23258 | "Catterline Burn"                     | "150268"                |
+| sepaidw:10195 | "Garive Burn"                         | "150084"                |
+| sepaidw:20186 | "Abhainn Srath Rannoch"               | "150039"                |
+| sepaidw:10587 | "Drumhumphrey Burn"                   | "150181"                |
+| sepaidw:3821  | "Redside Burn"                        | "150226"                |
+| sepaidw:5219  | "Teviot Water"                        | "150135"                |
+| sepaidw:23339 | "Water of Tanar"                      | "150408"                |
+| sepaidw:23301 | "Long Burn"                           | "150398"                |
+| sepaidw:23298 | "Deskry Water"                        | "150397"                |
+| sepaidw:20066 | "Black Water"                         | "150358"                |
+| sepaidw:23285 | "Unnamed burn"                        | "150399"                |
+| sepaidw:10550 | "Garray Burn"                         | "150181"                |
+| sepaidw:10266 | "River Add"                           | "150075"                |
+| sepaidw:20776 | "Abhainn Eadarra"                     | "150030"                |
+| sepaidw:10211 | "Glenshellish Burn"                   | "150084"                |
+| sepaidw:6536  | "Allt Fearnach"                       | "150285"                |
+| sepaidw:20576 | "Achuboidrach Burn"                   | "150028"                |
+| sepaidw:6204  | "Craighall Burn"                      | "150411"                |
+| sepaidw:3905  | "Whittingehame Water"                 | "150225"                |
+| sepaidw:20623 | "Achvarasdal Burn"                    | "150360"                |
+| sepaidw:23171 | "River Isla"                          | "150315"                |
+| sepaidw:20327 | "Abhainn Righ"                        | "150067"                |
+| sepaidw:20597 | "Allt an t-Srath a Dhuibh"            | "150364"                |
+| sepaidw:10558 | "Water of Ken"                        | "150181"                |
+| sepaidw:5012  | "Ale Water"                           | "150124"                |
+| sepaidw:23236 | "Burn of Stonehouse"                  | "150300"                |
+| sepaidw:20358 | "Allt na Lairige"                     | "150377"                |
+| sepaidw:10498 | "Gillespie Burn"                      | "150187"                |
+| sepaidw:6700  | "Deich Burn"                          | "150251"                |
+| sepaidw:10180 | "Glenrosa Water"                      | "150103"                |
+| sepaidw:23232 | "River Ythan"                         | "150300"                |
+| sepaidw:20558 | "River Inver"                         | "150375"                |
+| sepaidw:10419 | "Ladykirk Burn"                       | "150204"                |
+| sepaidw:23160 | "Burn of King Edward"                 | "150307"                |
+| sepaidw:20046 | "Burn of Latheronwheel"               | "150361"                |
+| sepaidw:5263  | "Maidenhall Burn"                     | "150135"                |
+| sepaidw:20840 | "River Spean"                         | "150377"                |
+| sepaidw:10150 | "River Leven"                         | "150275"                |
+| sepaidw:20063 | "Allt a Mhuitinn"                     | "150358"                |
+| sepaidw:10651 | "Dryfe Water"                         | "150175"                |
+| sepaidw:20237 | "Allt Garbh"                          | "150336"                |
+| sepaidw:10106 | "Westruther Burn"                     | "150217"                |
+| sepaidw:23265 | "River Don"                           | "150400"                |
+| sepaidw:23266 | "Bucks Burn"                          | "150400"                |
+| sepaidw:10101 | "Medwin Water"                        | "150223"                |
+| sepaidw:20719 | "Scavaig River"                       | "150042"                |
+| sepaidw:6646  | "Allt Ghallabhaich"                   | "150290"                |
+| sepaidw:10305 | "Lustagan Burn"                       | "150075"                |
+| sepaidw:5811  | "Burn of Glenmoye"                    | "150387"                |
+| sepaidw:10563 | "Water of Deugh"                      | "150181"                |
+| sepaidw:10693 | "Tweeden Burn"                        | "150162"                |
+| sepaidw:10247 | "Allt Mor"                            | "150385"                |
+| sepaidw:20383 | "Dubh Lighe"                          | "150067"                |
+| sepaidw:10927 | "Cessnock Water"                      | "150198"                |
+| sepaidw:10702 | "Moffat Water"                        | "150170"                |
+| sepaidw:6624  | "River Ericht"                        | "150294"                |
+| sepaidw:3205  | "Pow Burn"                            | "150234"                |
+| sepaidw:10405 | "Logan Burn"                          | "150207"                |
+| sepaidw:10520 | "River Cree"                          | "150190"                |
+| sepaidw:20521 | "Abhainn Clais an Eas"                | "150375"                |
+| sepaidw:20376 | "River Mallie"                        | "150377"                |
+| sepaidw:5277  | "Whalplaw Burn"                       | "150141"                |
+| sepaidw:20692 | "Swanney Burn"                        | "150021"                |
+| sepaidw:10409 | "Powmillon Burn"                      | "150215"                |
+| sepaidw:20550 | "Abhainn Cuileig"                     | "150375"                |
+| sepaidw:20016 | "Allt Garbh"                          | "150338"                |
+| sepaidw:20676 | "Burn of Hillwell"                    | "150002"                |
+| sepaidw:10216 | "Loin Water"                          | "150084"                |
+| sepaidw:5205  | "River Tweed"                         | "150148"                |
+| sepaidw:23388 | "River Fechlin"                       | "150334"                |
+| sepaidw:20611 | "River Strathy"                       | "150364"                |
+| sepaidw:20650 | "Sleach Water"                        | "150360"                |
+| sepaidw:3401  | "Pardovan Burn"                       | "150227"                |
+| sepaidw:20660 | "Tormiston Burn"                      | "150021"                |
+| sepaidw:5335  | "Talla Water"                         | "150142"                |
+| sepaidw:4403  | "Black Devon"                         | "150235"                |
+| sepaidw:6835  | "River Teith"                         | "150276"                |
+| sepaidw:10623 | "Carron Water"                        | "150115"                |
+| sepaidw:6206  | "Fernie Burn"                         | "150250"                |
+| sepaidw:6541  | "Shee Water"                          | "150286"                |
+| sepaidw:10535 | "Graddoch Burn"                       | "150189"                |
+| sepaidw:20170 | "River Bran"                          | "150039"                |
+| sepaidw:20622 | "Sandside Burn"                       | "150360"                |
+| sepaidw:4717  | "Allt Ruighe an Eas"                  | "150276"                |
+| sepaidw:10244 | "Ballochroy Burn"                     | "150385"                |
+| sepaidw:5404  | "The Stank"                           | "150139"                |
+| sepaidw:23200 | "Water of Cruden"                     | "150303"                |
+| sepaidw:10540 | "Big Water of Fleet"                  | "150181"                |
+| sepaidw:5273  | "Brunta Burn"                         | "150141"                |
+| sepaidw:10381 | "River Garnock"                       | "150209"                |
+| sepaidw:5280  | "Gala Water"                          | "150143"                |
+| sepaidw:6665  | "Meigle Burn"                         | "150261"                |
+| sepaidw:20236 | "Abhainn Gleann nam Fiadh"            | "150336"                |
+| sepaidw:6662  | "Auchlyne West Burn"                  | "150290"                |
+| sepaidw:20086 | "Allt Eiteachan"                      | "150366"                |
+| sepaidw:10351 | "Uisg an t-Suidhe"                    | "150094"                |
+| sepaidw:10094 | "Douglas Water"                       | "150217"                |
+| sepaidw:10237 | "Torrisdale Water"                    | "150385"                |
+| sepaidw:10072 | "South Calder Water"                  | "150218"                |
+| sepaidw:20036 | "Wick River"                          | "150362"                |
+| sepaidw:20230 | "Allt Loch Calavie"                   | "150336"                |
+| sepaidw:10275 | "Allt Beochlich"                      | "150075"                |
+| sepaidw:6507  | "River Almond"                        | "150260"                |
+| sepaidw:20136 | "Water of Glencalvie"                 | "150366"                |
+| sepaidw:3901  | "Dunglass Burn"                       | "150225"                |
+| sepaidw:20400 | "Strontian River"                     | "150065"                |
+| sepaidw:6810  | "Drummond Burn"                       | "150277"                |
+| sepaidw:10497 | "Milton Burn"                         | "150187"                |
+| sepaidw:6551  | "Brerrachan Water"                    | "150285"                |
+| sepaidw:23054 | "Boyne Burn"                          | "150311"                |
+| sepaidw:10310 | "Abhainn Dalach"                      | "150075"                |
+| sepaidw:5322  | "Weston Burn"                         | "150142"                |
+| sepaidw:10726 | "Whitehaugh Water"                    | "150197"                |
+| sepaidw:10918 | "River Clyde"                         | "150218"                |
+| sepaidw:6577  | "River Braan"                         | "150290"                |
+| sepaidw:10168 | "Allt Fionn Ghlinne"                  | "150082"                |
+| sepaidw:20154 | "Big Burn"                            | "150350"                |
+| sepaidw:10000 | "White Cart Water"                    | "150220"                |
+| sepaidw:20483 | "River Ewe"                           | "150038"                |
+| sepaidw:10282 | "Teatle Water"                        | "150075"                |
+| sepaidw:10667 | "Kirtle Water"                        | "150162"                |
+| sepaidw:20390 | "Glengalmadale River"                 | "150065"                |
+| sepaidw:10138 | "Bothlin Burn"                        | "150219"                |
+| sepaidw:5336  | "Fruid Water"                         | "150142"                |
+| sepaidw:20393 | "Rannoch River"                       | "150065"                |
+| sepaidw:20710 | "Abhainn Lusa"                        | "150042"                |
+| sepaidw:5323  | "Biggar Water"                        | "150149"                |
+| sepaidw:20047 | "Dunbeath Water"                      | "150360"                |
+| sepaidw:23378 | "Innes Canal"                         | "150342"                |
+| sepaidw:20670 | "Burn of Laxobigging"                 | "150002"                |
+| sepaidw:5299  | "Glenkinnon Burn"                     | "150142"                |
+| sepaidw:10230 | "Conieglen Water"                     | "150385"                |
+| sepaidw:5310  | "Glenrath Burn"                       | "150142"                |
+| sepaidw:6498  | "River Tay"                           | "150260"                |
+| sepaidw:20787 | "Abhainn Giosla"                      | "150030"                |
+| sepaidw:23332 | "River Dee"                           | "150299"                |
+| sepaidw:23383 | "River Kerry"                         | "150038"                |
+| sepaidw:23231 | "River Ythan"                         | "150300"                |
+| sepaidw:23121 | "Am Beanaidh"                         | "150327"                |
+| sepaidw:23066 | "River Spey"                          | "150318"                |
+| sepaidw:20290 | "Loch nan Lann Burn"                  | "150334"                |
+| sepaidw:20203 | "Allt a Choire Mhoir"                 | "150039"                |
+| sepaidw:20470 | "River Erradale"                      | "150038"                |
+-----------------------------------------------------------------------------------

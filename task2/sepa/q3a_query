@@ -1,0 +1,26 @@
+# Run query 3a
+# arq --query q3a_query > q3a_results
+# arq --query q3a_query --results csv > q3a_results
+
+# This is an alternative form of query3 which is a bit more readable and
+# produces the same results in a more readable form.
+
+# This should succeed with empty results
+
+PREFIX  geo:  <http://www.w3.org/2003/01/ge0/wgs84_pos#>
+PREFIX  sepaidw: <http://data.sepa.org.uk/id/Water/> 
+PREFIX  sepaidloc: <http://data.sepa.org.uk/id/Location/>
+PREFIX  rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX  sepaw: <http://data.sepa.org.uk/ont/Water#>
+
+SELECT *
+ FROM </home/dsb5/CHAIN/chain-may-2017/chain/code/daisy-spsm/queryRespond/datasets/sepa/waterBodyMeasures.n3>
+WHERE { ?id  sepaw:timePeriod ?timePeriod ;
+             geo:geo ?geo ;
+             sepaw:measure ?measure ;
+             sepaw:resource ?resource 
+
+.}
+
+ 
+

@@ -1,0 +1,35 @@
+geo       <http://www.w3.org/2003/01/geo/wgs84_pos#>
+		geo location lat long
+sepaidw   <http://data.sepa.org.uk/id/Water/>  
+sepaidloc <http://data.sepa.org.uk/id/Location/>
+sepaloc	  <http://data.sepa.org.uk/ont/Location#>
+		catchment hydrocode localAuthority locationCode
+		locationDescription ngr sepaRegion sepaTeam year
+rdf       <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+		type
+sepaw     <http://data.sepa.org.uk/ont/Water#>
+		timePeriod geo measure resource waterBodyId
+		secondaryMeasure dataSource primaryMeasure
+		geologyTypology altitudeTypology subBasinArea
+		riverBodyName associatedGroundwaterId
+		bathingWaterId bwLocation classDescription
+		description year
+		areaSqKm category classificationCertainty
+		classificationCertaintyBand currentClassificationYear
+		currentOverallClassification
+		ecoRegion genre isArtificial isHeavilyModified
+		isLessThanGood noDetRiskAssessment rbdCode riverBasinDistrict
+		sbdCode statusRiskAssessment subBasinDistrict targetClass 
+		team waterBodyId waterBodyName wiseCode
+		locationCode agreed atGepCurClassYear atGepCurrentPeriod
+		atGepNextPeriod atGepPeriodAfterNext atGepSysdate
+		comments deadline measureFixedDate measureId
+		onTrack owner pressureId projected waterBodyId
+		activity activityCode assessmentCategory
+		assessmentParameter
+		eiAfterConfidence eiCurrentConfidence
+		eiCurrentFailReason eiNextConfidence eiNextFailReason
+		envImprovementAfterNext envImprovementCurrent
+		envImprovementNext identifiedDate industrySector
+		industrySectorCode isPrimary pressureId pressureType
+		swmiSector

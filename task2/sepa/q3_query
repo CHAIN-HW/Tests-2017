@@ -1,0 +1,18 @@
+# Run query 3 (on the Sepa dataset)
+# arq --query q3_query > q3_results
+# Or:
+# Run query3 (on the Sepa dataset) and produce the results in csv form
+# in a file called q3_results
+# arq --query q3_query --results csv > q3_results
+
+# This query should succeed with empty results
+
+SELECT *
+ FROM </home/dsb5/CHAIN/chain-may-2017/chain/code/daisy-spsm/queryRespond/datasets/sepa/waterBodyMeasures.n3>
+WHERE { ?id  <http://data.sepa.org.uk/ont/Water#timePeriod> ?timePeriod ;
+             <http://www.w3.org/2003/01/ge0/wgs84_pos#geo> ?geo ;
+             <http://data.sepa.org.uk/ont/Water#measure> ?measure ;
+             <http://data.sepa.org.uk/ont/Water#resource> ?resource 
+.}
+ 
+
