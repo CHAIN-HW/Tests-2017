@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------------------------------------------------
+| id                                                         | leaderParty                                                         |
+====================================================================================================================================
+| <http://dbpedia.org/resource/Alexandria,_Romania>          | <http://dbpedia.org/resource/Social_Democratic_Party_(Romania)>     |
+| res:Guernica                                               | res:Eusko_Alkartasuna                                               |
+| <http://dbpedia.org/resource/Jackson,_Mississippi>         | <http://dbpedia.org/resource/Democratic_Party_(United_States)>      |
+| res:Juan_Fernández_Islands                                 | <http://dbpedia.org/resource/Humanist_Party_(Chile)>                |
+| <http://dbpedia.org/resource/Nashville,_Tennessee>         | <http://dbpedia.org/resource/Democratic_Party_(United_States)>      |
+| <http://dbpedia.org/resource/Deva,_Romania>                | res:Social_Liberal_Union                                            |
+| res:Sighișoara                                             | <http://dbpedia.org/resource/Social_Democratic_Party_(Romania)>     |
+| <http://dbpedia.org/resource/Baldwyn,_Mississippi>         | res:Independent_politician                                          |
+| res:Belišće                                                | res:Croatian_Democratic_Alliance_of_Slavonia_and_Baranja            |
+| res:Gentofte_Municipality                                  | <http://dbpedia.org/resource/Conservative_People's_Party_(Denmark)> |
+| <http://dbpedia.org/resource/Harlingen,_Friesland>         | <http://dbpedia.org/resource/Labour_Party_(Netherlands)>            |
+| <http://dbpedia.org/resource/Kozan,_Adana>                 | res:Nationalist_Movement_Party                                      |
+| res:Køge_Municipality                                      | <http://dbpedia.org/resource/Conservative_People's_Party_(Denmark)> |
+| res:Našice                                                 | res:Croatian_Democratic_Union                                       |
+| <http://dbpedia.org/resource/Požega,_Croatia>              | res:Croatian_Democratic_Union                                       |
+| res:Rødovre_Municipality                                   | <http://dbpedia.org/resource/Social_Democrats_(Denmark)>            |
+| res:Vinkovci                                               | res:Croatian_Democratic_Union                                       |
+| res:Đakovo                                                 | res:Croatian_Democratic_Alliance_of_Slavonia_and_Baranja            |
+| <http://dbpedia.org/resource/Borovo,_Blagoevgrad_Province> | res:GERB                                                            |
+| <http://dbpedia.org/resource/Borovo,_Croatia>              | res:Independent_Democratic_Serb_Party                               |
+------------------------------------------------------------------------------------------------------------------------------------

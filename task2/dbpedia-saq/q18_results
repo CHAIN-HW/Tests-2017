@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------------------------------------------------------------
+| id                                                                          | religion                                                       |
+================================================================================================================================================
+| res:John_Hogg                                                               | res:Catholic_Church                                            |
+| res:John_Oponjo_Benjamin                                                    | res:Christianity                                               |
+| <http://dbpedia.org/resource/Kenneth_Mitchell_(politician)>                 | res:Catholic_Church                                            |
+| res:Ann_Widdecombe                                                          | res:Catholic_Church                                            |
+| res:Babrak_Karmal                                                           | res:Islam                                                      |
+| res:Benjamin_Disraeli                                                       | res:Church_of_England                                          |
+| res:Benjamin_Disraeli                                                       | res:Judaism                                                    |
+| res:Bill_Clinton                                                            | res:Baptists                                                   |
+| res:Chiang_Kai-shek                                                         | res:Methodism                                                  |
+| res:Constantine_Kanaris                                                     | res:Greek_Orthodox_Church                                      |
+| res:Edmund_Stoiber                                                          | res:Catholic_Church                                            |
+| res:Francesco_Cossiga                                                       | res:Catholic_Church                                            |
+| res:Francisco_I._Madero                                                     | res:Spiritism                                                  |
+| <http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis> | res:Anglicanism                                                |
+| res:Johannes_Rau                                                            | res:Evangelical_Church_in_the_Rhineland                        |
+| res:John_Danforth                                                           | <http://dbpedia.org/resource/Episcopal_Church_(United_States)> |
+| res:John_Diefenbaker                                                        | res:Canadian_Baptist_Ministries                                |
+| <http://dbpedia.org/resource/John_Radcliffe_(physician)>                    | res:Church_of_England                                          |
+| res:Karl_Dönitz                                                             | res:Evangelical_Church_in_Germany                              |
+| res:Kenneth_Kaunda                                                          | res:Christian                                                  |
+------------------------------------------------------------------------------------------------------------------------------------------------

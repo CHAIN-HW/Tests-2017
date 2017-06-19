@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------------------------------------------
+| id                    | team                                       | birthDate                                             |
+==============================================================================================================================
+| res:Abel_Ferreira     | res:F.C._Penafiel                          | "1978-12-22"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Ferreira     | <http://dbpedia.org/resource/Vitória_S.C.> | "1978-12-22"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Ferreira     | res:S.C._Braga_B                           | "1978-12-22"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Ferreira     | res:S.C._Braga                             | "1978-12-22"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Ferreira     | res:Sporting_Clube_de_Portugal             | "1978-12-22"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Gómez_Moreno | res:FC_Steaua_București                    | "1982-02-20"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Gómez_Moreno | res:Sevilla_FC                             | "1982-02-20"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Gómez_Moreno | res:Granada_CF                             | "1982-02-20"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Gómez_Moreno | res:CP_Granada_74                          | "1982-02-20"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Gómez_Moreno | res:Sevilla_Atlético                       | "1982-02-20"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Gómez_Moreno | res:Córdoba_CF                             | "1982-02-20"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Gómez_Moreno | res:Real_Murcia                            | "1982-02-20"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Gómez_Moreno | res:Atlético_Malagueño                     | "1982-02-20"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Gómez_Moreno | res:Xerez_CD                               | "1982-02-20"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Gómez_Moreno | res:Cádiz_CF                               | "1982-02-20"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Miglietti    | res:F.C._Penafiel                          | "1946-03-04"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Miglietti    | res:S.C._Beira-Mar                         | "1946-03-04"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Miglietti    | res:Portugal_national_football_team        | "1946-03-04"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Miglietti    | res:S.L._Benfica                           | "1946-03-04"^^<http://www.w3.org/2001/XMLSchema#date> |
+| res:Abel_Miglietti    | res:FC_Porto                               | "1946-03-04"^^<http://www.w3.org/2001/XMLSchema#date> |
+------------------------------------------------------------------------------------------------------------------------------

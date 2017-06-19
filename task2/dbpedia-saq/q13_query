@@ -1,0 +1,16 @@
+# DBpedia query 13 (based on SAQ query 13)
+# To run this queryfrom the command line use rsparql (not just arq)
+
+# rsparql --query q13_query --service http://dbpedia.org/sparql > q13_results
+
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/property/> 
+PREFIX res: <http://dbpedia.org/resource/> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT DISTINCT *
+WHERE { ?id rdf:type dbo:Royalty ;
+            dbo:parent ?parent  .
+} 
+LIMIT 20

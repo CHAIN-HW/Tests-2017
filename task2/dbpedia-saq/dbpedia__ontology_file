@@ -1,0 +1,19 @@
+dbo	<http://dbpedia.org/ontology/>
+	River Automobile Royalty Place Film Politician Astronaut
+	Country Company Game River Island Town City Mountain Cave
+	FormulaOneRacer
+	length assembly manufacturer place locationCountry birthPlace
+	deathPlace parent language director religion spouse
+	nationality battle populationTotal location publisher mission
+	country occupation leaderParty elevation instrument races team
+	birthDate
+dbp	<http://dbpedia.org/property/>
+	length admittancedate birthName
+res	<http://dbpedia.org/resource/>
+	Nonprofit_organization
+rdf	<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+	type
+foaf	<http://xmlns.com/foaf/0.1/>
+	Person
+yago	<http://dbpedia.org/class/yago/>
+	StatesOfTheUnitedStates

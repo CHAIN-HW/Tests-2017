@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| id                                                                     | birthPlace                                       | deathPlace                                     |
+==============================================================================================================================================================================
+| res:Agustín_de_Iturbide_y_Green                                        | res:Mexico_City                                  | <http://dbpedia.org/resource/Washington,_D.C.> |
+| res:Agustín_de_Iturbide_y_Green                                        | res:Second_Mexican_Empire                        | <http://dbpedia.org/resource/Washington,_D.C.> |
+| res:Agustín_de_Iturbide_y_Green                                        | res:Mexico_City                                  | res:United_States                              |
+| res:Agustín_de_Iturbide_y_Green                                        | res:Second_Mexican_Empire                        | res:United_States                              |
+| <http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis>    | res:Regensburg                                   | res:Germany                                    |
+| <http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis>    | res:Kingdom_of_Bavaria                           | res:Germany                                    |
+| <http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis>    | res:Regensburg                                   | res:Bavaria                                    |
+| <http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis>    | res:Kingdom_of_Bavaria                           | res:Bavaria                                    |
+| <http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis>    | res:Regensburg                                   | res:Regensburg                                 |
+| <http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis>    | res:Kingdom_of_Bavaria                           | res:Regensburg                                 |
+| <http://dbpedia.org/resource/Albert,_Duke_of_Schleswig-Holstein>       | <http://dbpedia.org/resource/Windsor,_Berkshire> | res:Przemków                                   |
+| <http://dbpedia.org/resource/Albert,_Duke_of_Schleswig-Holstein>       | res:Frogmore_House                               | res:Przemków                                   |
+| <http://dbpedia.org/resource/Albert,_Duke_of_Schleswig-Holstein>       | <http://dbpedia.org/resource/Windsor,_Berkshire> | res:Weimar_Republic                            |
+| <http://dbpedia.org/resource/Albert,_Duke_of_Schleswig-Holstein>       | res:Frogmore_House                               | res:Weimar_Republic                            |
+| <http://dbpedia.org/resource/Albert,_King_of_Sweden>                   | res:Mecklenburg                                  | res:Doberan_Abbey                              |
+| <http://dbpedia.org/resource/Albert,_Prince_of_Schwarzburg-Rudolstadt> | res:Schwarzburg-Rudolstadt                       | res:Schwarzburg-Rudolstadt                     |
+| <http://dbpedia.org/resource/Albert,_Prince_of_Schwarzburg-Rudolstadt> | res:Rudolstadt                                   | res:Schwarzburg-Rudolstadt                     |
+| <http://dbpedia.org/resource/Albert,_Prince_of_Schwarzburg-Rudolstadt> | res:Schwarzburg-Rudolstadt                       | res:Rudolstadt                                 |
+| <http://dbpedia.org/resource/Albert,_Prince_of_Schwarzburg-Rudolstadt> | res:Rudolstadt                                   | res:Rudolstadt                                 |
+| <http://dbpedia.org/resource/Albert_Casimir,_Duke_of_Teschen>          | res:Electorate_of_Saxony                         | res:Vienna                                     |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

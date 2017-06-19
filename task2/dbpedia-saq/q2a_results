@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+| id                                                                | country           | population                                                     |
+==========================================================================================================================================================
+| res:Aalen                                                         | res:Germany       | "66252"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| <http://dbpedia.org/resource/Dedham,_Massachusetts>               | res:United_States | "24729"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| <http://dbpedia.org/resource/Hanover,_New_Hampshire>              | res:United_States | "11260"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| res:Keflavík                                                      | res:Iceland       | "14821"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| res:Limburg_an_der_Lahn                                           | res:Germany       | "33832"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| <http://dbpedia.org/resource/Quantico,_Virginia>                  | res:United_States | "480"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| <http://dbpedia.org/resource/Elberta,_Alabama>                    | res:United_States | "1498"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| res:Fehmarn                                                       | res:Germany       | "13036"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| <http://dbpedia.org/resource/Frankfurt_(Oder)>                    | res:Germany       | "61286"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| res:Friedrichshafen                                               | res:Germany       | "58068"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| <http://dbpedia.org/resource/Loxley,_Alabama>                     | res:United_States | "1632"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Silverhill,_Alabama>                 | res:United_States | "706"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| <http://dbpedia.org/resource/Summerdale,_Alabama>                 | res:United_States | "862"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| <http://dbpedia.org/resource/Farmville,_Virginia>                 | res:United_States | "8216"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Jarratt,_Virginia>                   | res:United_States | "589"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| <http://dbpedia.org/resource/Adrian,_Wisconsin>                   | res:United_States | "682"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| <http://dbpedia.org/resource/Ahnapee,_Wisconsin>                  | res:United_States | "977"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| <http://dbpedia.org/resource/Algoma,_Winnebago_County,_Wisconsin> | res:United_States | "6822"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Amalga,_Utah>                        | res:United_States | "497"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| <http://dbpedia.org/resource/Amnicon,_Wisconsin>                  | res:United_States | "1074"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+----------------------------------------------------------------------------------------------------------------------------------------------------------

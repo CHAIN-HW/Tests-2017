@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------
+| id            | assembly                                      | manufacturer                     |
+====================================================================================================
+| res:Ford_GT40 | <http://dbpedia.org/resource/Wixom,_Michigan> | res:Ford_Motor_Company           |
+| res:Ford_GT40 | <http://dbpedia.org/resource/Wixom,_Michigan> | res:Carroll_Shelby_International |
+| res:Ford_GT40 | <http://dbpedia.org/resource/Wixom,_Michigan> | res:John_Wyer                    |
+| res:Ford_GT40 | <http://dbpedia.org/resource/Wixom,_Michigan> | res:Kar_Kraft                    |
+| res:Ford_GT40 | res:Slough                                    | res:Ford_Motor_Company           |
+| res:Ford_GT40 | res:Slough                                    | res:Carroll_Shelby_International |
+| res:Ford_GT40 | res:Slough                                    | res:John_Wyer                    |
+| res:Ford_GT40 | res:Slough                                    | res:Kar_Kraft                    |
+| res:Ford_GT40 | res:United_Kingdom                            | res:Ford_Motor_Company           |
+| res:Ford_GT40 | res:United_Kingdom                            | res:Carroll_Shelby_International |
+| res:Ford_GT40 | res:United_Kingdom                            | res:John_Wyer                    |
+| res:Ford_GT40 | res:United_Kingdom                            | res:Kar_Kraft                    |
+| res:Ford_GT40 | res:United_States                             | res:Ford_Motor_Company           |
+| res:Ford_GT40 | res:United_States                             | res:Carroll_Shelby_International |
+| res:Ford_GT40 | res:United_States                             | res:John_Wyer                    |
+| res:Ford_GT40 | res:United_States                             | res:Kar_Kraft                    |
+| res:Ford_GT40 | res:Michigan                                  | res:Ford_Motor_Company           |
+| res:Ford_GT40 | res:Michigan                                  | res:Carroll_Shelby_International |
+| res:Ford_GT40 | res:Michigan                                  | res:John_Wyer                    |
+| res:Ford_GT40 | res:Michigan                                  | res:Kar_Kraft                    |
+----------------------------------------------------------------------------------------------------

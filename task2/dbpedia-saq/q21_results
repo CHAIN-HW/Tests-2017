@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+| id                                                       | battle                                                              |
+==================================================================================================================================
+| <http://dbpedia.org/resource/David_Evans_(RAAF_officer)> | res:Berlin_Blockade                                                 |
+| <http://dbpedia.org/resource/David_Evans_(RAAF_officer)> | res:Vietnam_War                                                     |
+| res:Edward_Peck_Curtis                                   | res:World_War_I                                                     |
+| res:Frederick_Muller                                     | <http://dbpedia.org/resource/Spanish–American_War>                  |
+| res:Hermann_Bauer                                        | res:World_War_I                                                     |
+| res:Jack_Stevens                                         | <http://dbpedia.org/resource/Aitape–Wewak_campaign>                 |
+| res:Jack_Stevens                                         | <http://dbpedia.org/resource/Western_Front_(World_War_I)>           |
+| res:Jack_Stevens                                         | res:Battle_of_Polygon_Wood                                          |
+| res:Jack_Stevens                                         | res:South_West_Pacific_theatre_of_World_War_II                      |
+| res:Jack_Stevens                                         | <http://dbpedia.org/resource/Syria–Lebanon_Campaign>                |
+| res:Jack_Stevens                                         | res:Battle_of_the_Litani_River                                      |
+| res:Jack_Stevens                                         | res:Battle_of_Pozières                                              |
+| res:Jack_Stevens                                         | res:Battle_of_Damour                                                |
+| res:Karl_Arndt                                           | res:Operation_Barbarossa                                            |
+| res:Karl_Arndt                                           | <http://dbpedia.org/resource/Belgorod-Khar'kov_Offensive_Operation> |
+| res:Karl_Arndt                                           | res:Battle_of_Kursk                                                 |
+| res:Karl_Arndt                                           | res:World_War_II                                                    |
+| res:Karl_Arndt                                           | res:Battle_of_France                                                |
+| res:Karl_Arndt                                           | res:Invasion_of_Poland                                              |
+| res:Karl_Arndt                                           | res:Lower_Silesian_Offensive                                        |
+----------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+-----------------------------------------------------------------------------------
+| id                                                    | language                |
+===================================================================================
+| res:Asia                                              | res:Languages_of_Asia   |
+| <http://dbpedia.org/resource/Cocos_(Keeling)_Islands> | res:English_language    |
+| <http://dbpedia.org/resource/Cocos_(Keeling)_Islands> | res:Malay_language      |
+| res:Europe                                            | res:Languages_of_Europe |
+| res:French_Southern_and_Antarctic_Lands               | res:French_language     |
+| res:Hanseatic_League                                  | res:Middle_Low_German   |
+| res:Hawick                                            | res:English_language    |
+| res:Hawick                                            | res:Southern_Scots      |
+| res:Kansas                                            | res:English_Americans   |
+| res:Latin_America                                     | res:French_language     |
+| res:Latin_America                                     | res:Portuguese_language |
+| res:Latin_America                                     | res:Spanish_language    |
+| res:Latin_America                                     | res:Nahuatl             |
+| res:Latin_America                                     | res:Dutch_language      |
+| res:Latin_America                                     | res:Mayan_languages     |
+| res:Latin_America                                     | res:Aymara_language     |
+| res:Latin_America                                     | res:Italian_language    |
+| res:Latin_America                                     | res:Guarani_language    |
+| <http://dbpedia.org/resource/Macedonia_(region)>      | res:Bulgarian_language  |
+| <http://dbpedia.org/resource/Macedonia_(region)>      | res:Macedonian_language |
+-----------------------------------------------------------------------------------

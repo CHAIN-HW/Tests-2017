@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------------------------------------------------------
+| id                                                           | races                                                        |
+===============================================================================================================================
+| res:Jack_Brabham                                             | "128"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| res:Michael_Schumacher                                       | "308"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| res:Ayrton_Senna                                             | "162"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| res:Jacky_Ickx                                               | "122"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| res:Enrico_Bertaggia                                         | "8"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| res:Gérard_Larrousse                                         | "2"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| res:Henri_Pescarolo                                          | "64"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| res:Luki_Botha                                               | "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| res:Adolfo_Schwelm_Cruz                                      | "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| res:Dempsey_Wilson                                           | "5"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| res:Emanuele_Pirro                                           | "40"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| res:François_Cevert                                          | "47"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Geki_(racing_driver)>           | "3"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| <http://dbpedia.org/resource/John_Nicholson_(racing_driver)> | "2"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| <http://dbpedia.org/resource/Josef_Peters_(racing_driver)>   | "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| <http://dbpedia.org/resource/Ken_Richardson_(racing_driver)> | "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| res:Larry_Perkins                                            | "15"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| res:Ralf_Schumacher                                          | "182"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| res:Satoru_Nakajima                                          | "80"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| res:Shinji_Nakano                                            | "33"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+-------------------------------------------------------------------------------------------------------------------------------

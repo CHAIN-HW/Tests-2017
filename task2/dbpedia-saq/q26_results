@@ -1,0 +1,24 @@
+--------------------------------------------
+| id                   | country           |
+============================================
+| res:Amazon_River     | res:Brazil        |
+| res:Amazon_River     | res:Colombia      |
+| res:Amazon_River     | res:Ecuador       |
+| res:Amazon_River     | res:Peru          |
+| res:Amu_Darya        | res:Afghanistan   |
+| res:Amu_Darya        | res:Tajikistan    |
+| res:Amu_Darya        | res:Turkmenistan  |
+| res:Amu_Darya        | res:Uzbekistan    |
+| res:Branco_River     | res:Brazil        |
+| res:Casiquiare_canal | res:Venezuela     |
+| res:Detroit_River    | res:Canada        |
+| res:Detroit_River    | res:United_States |
+| res:Euphrates        | res:Iraq          |
+| res:Euphrates        | res:Syria         |
+| res:Euphrates        | res:Turkey        |
+| res:Ganges           | res:Bangladesh    |
+| res:Ganges           | res:India         |
+| res:Javary_River     | res:Peru          |
+| res:Madeira_River    | res:Brazil        |
+| res:Marañón_River    | res:Peru          |
+--------------------------------------------

@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+| id                                                       | populationTotal                                                     |
+==================================================================================================================================
+| <http://dbpedia.org/resource/Cocos_(Keeling)_Islands>    | "596"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>        |
+| res:French_Southern_and_Antarctic_Lands                  | "150"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>        |
+| res:Kerguelen_Islands                                    | "45"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>         |
+| <http://dbpedia.org/resource/Macedonia_(region)>         | "4760000"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>    |
+| res:Organization_for_Security_and_Co-operation_in_Europe | "1229503230"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| res:Palestinian_National_Authority                       | "4682467"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>    |
+| res:Savoy                                                | "1125119"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>    |
+| res:Special_administrative_regions_of_China              | "7858800"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>    |
+| res:Nagorno-Karabakh_Republic                            | "146600"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>     |
+| res:Sahrawi_Arab_Democratic_Republic                     | "100000"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>     |
+| res:Dutch_Language_Union                                 | "23000000"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| res:Rojava                                               | "4600000"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>    |
+| res:Saint_Barthélemy                                     | "9035"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>       |
+| res:Nineveh_plains                                       | "500000"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>     |
+| res:Republic_of_Saugeais                                 | "4337"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>       |
+| res:Mohegan_Indian_Tribe                                 | "1920"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>       |
+| res:Kingdom_of_North_Sudan                               | "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>          |
+| res:Paraguayan_architecture                              | "6802000"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>    |
+| res:Zhedna                                               | "112"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>        |
+| res:Glacier_Republic                                     | "100000"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>     |
+----------------------------------------------------------------------------------------------------------------------------------

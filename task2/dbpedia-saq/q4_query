@@ -1,0 +1,15 @@
+# DBpedia query 4 (based on SAQ query 4)
+# To run this queryfrom the command line use rsparql (not just arq)
+
+# rsparql --query q4_query --service http://dbpedia.org/sparql > q4_results
+
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX res: <http://dbpedia.org/resource/> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+SELECT DISTINCT *
+WHERE { 
+        ?id rdf:type dbo:Mountain ;
+            dbo:elevation ?elevation .
+} 
+LIMIT 20

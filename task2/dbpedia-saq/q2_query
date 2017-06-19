@@ -1,0 +1,14 @@
+# DBpedia query 2 (based on SAQ query 2)
+# To run this queryfrom the command line use rsparql (not just arq)
+
+# rsparql --query q2_query --service http://dbpedia.org/sparql > q2_results
+
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX res: <http://dbpedia.org/resource/> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+SELECT DISTINCT *
+WHERE { ?id rdf:type dbo:City ;
+            dbo:country ?country ;
+	    dbo:populationTotal ?population . }
+LIMIT 20

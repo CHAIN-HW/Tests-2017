@@ -1,0 +1,17 @@
+# DBpedia query 24 (based on SAQ query 24)
+# To run this queryfrom the command line use rsparql (not just arq)
+
+# rsparql --query q24_query --service http://dbpedia.org/sparql > q24_results
+
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/property/> 
+PREFIX res: <http://dbpedia.org/resource/> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT DISTINCT *
+WHERE{
+	?id rdf:type dbo:Game ;
+            dbo:publisher ?publisher .
+} 
+LIMIT 20

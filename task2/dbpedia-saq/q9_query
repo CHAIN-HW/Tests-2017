@@ -1,0 +1,16 @@
+# DBpedia query 9 (based on SAQ query 9)
+# To run this queryfrom the command line use rsparql (not just arq)
+
+# rsparql --query q9_query --service http://dbpedia.org/sparql > q9_results
+
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX res: <http://dbpedia.org/resource/> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT DISTINCT *
+WHERE { ?id rdf:type foaf:Person ;
+      	    dbo:team ?team ;
+	    dbo:birthDate ?birthDate .
+} 
+LIMIT 20

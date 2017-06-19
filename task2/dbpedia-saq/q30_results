@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------------------------
+| id                                                        | mission                           |
+=================================================================================================
+| res:Catherine_Coleman                                     | "STS-73, STS-93, Soyuz TMA-20"@en |
+| res:Neil_Armstrong                                        | res:Apollo_11                     |
+| res:Neil_Armstrong                                        | res:Gemini_8                      |
+| <http://dbpedia.org/resource/Michael_Collins_(astronaut)> | res:Apollo_11                     |
+| <http://dbpedia.org/resource/Michael_Collins_(astronaut)> | res:Gemini_10                     |
+| res:Lodewijk_van_den_Berg                                 | res:STS-51-B                      |
+| res:Robert_Crippen                                        | res:STS-1                         |
+| res:Robert_Crippen                                        | res:STS-41-C                      |
+| res:Robert_Crippen                                        | res:STS-41-G                      |
+| res:Robert_Crippen                                        | res:STS-7                         |
+| res:Bertalan_Farkas                                       | res:Soyuz_35                      |
+| res:Bertalan_Farkas                                       | res:Soyuz_36                      |
+| res:Dafydd_Williams                                       | res:STS-90                        |
+| res:Dafydd_Williams                                       | res:STS-118                       |
+| res:Paul_J._Weitz                                         | res:Skylab_2                      |
+| res:Paul_J._Weitz                                         | res:STS-6                         |
+| res:Robert_D._Cabana                                      | res:STS-65                        |
+| res:Robert_D._Cabana                                      | res:STS-41                        |
+| res:Robert_D._Cabana                                      | res:STS-88                        |
+| res:Robert_D._Cabana                                      | res:STS-53                        |
+-------------------------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------------------------------------
+| id                                                           | length                                                |
+========================================================================================================================
+| res:Alabama_River                                            | "511771.0"^^<http://www.w3.org/2001/XMLSchema#double> |
+| res:Anadyr_River                                             | 1.15e+06                                              |
+| res:Arno                                                     | "241000.0"^^<http://www.w3.org/2001/XMLSchema#double> |
+| res:Columbia_River                                           | 2.00041e+06                                           |
+| <http://dbpedia.org/resource/Daugava_(river)>                | 1.02e+06                                              |
+| res:Detroit_River                                            | "45061.6"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| <http://dbpedia.org/resource/Main_(river)>                   | "527000.0"^^<http://www.w3.org/2001/XMLSchema#double> |
+| res:Mississippi_River                                        | 3.73368e+06                                           |
+| res:Missouri_River                                           | 3.76747e+06                                           |
+| res:Ohio_River                                               | 1.57877e+06                                           |
+| res:Puget_Sound                                              | "160934.0"^^<http://www.w3.org/2001/XMLSchema#double> |
+| <http://dbpedia.org/resource/Sabine_River_(Texas–Louisiana)> | "820765.0"^^<http://www.w3.org/2001/XMLSchema#double> |
+| res:Snake_River                                              | 1.73487e+06                                           |
+| res:River_Waveney                                            | "94549.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Humber                                                   | "61959.7"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:River_Wissey                                             | "49889.7"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Smoky_Hill_River                                         | "925373.0"^^<http://www.w3.org/2001/XMLSchema#double> |
+| <http://dbpedia.org/resource/Alcantara_(river)>              | "52000.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Capel_River                                              | "32000.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Dečani_Bistrica                                          | "53000.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+------------------------------------------------------------------------------------------------------------------------

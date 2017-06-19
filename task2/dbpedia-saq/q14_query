@@ -1,0 +1,18 @@
+# DBpedia query 14 (based on SAQ query 14)
+# To run this queryfrom the command line use rsparql (not just arq)
+
+# rsparql --query q14_query --service http://dbpedia.org/sparql > q14_results
+
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/property/> 
+PREFIX res: <http://dbpedia.org/resource/> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX yago: <http://dbpedia.org/class/yago/>
+
+SELECT DISTINCT *
+WHERE{
+	?id rdf:type yago:StatesOfTheUnitedStates ;
+            dbp:admittancedate ?admittancedate .
+} 
+LIMIT 20

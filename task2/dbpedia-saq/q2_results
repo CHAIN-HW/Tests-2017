@@ -1,0 +1,24 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| id                                                       | country                               | population                                                       |
+=======================================================================================================================================================================
+| <http://dbpedia.org/resource/Kansas_City,_Missouri>      | res:United_States                     | "459787"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| res:Algiers                                              | res:Algeria                           | "3415811"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| res:Atlanta                                              | res:United_States                     | "447841"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Austin,_Texas>              | res:United_States                     | "912791"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Berkeley,_California>       | res:United_States                     | "112580"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Cambridge,_Massachusetts>   | res:United_States                     | "107289"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| res:Chernobyl                                            | res:Ukraine                           | "704"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>     |
+| res:Chicago                                              | res:United_States                     | "2695598"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> |
+| res:City_of_London                                       | res:Counties_of_England               | "7375"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>    |
+| res:City_of_London                                       | res:Sui_generis                       | "7375"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>    |
+| res:City_of_London                                       | res:City_status_in_the_United_Kingdom | "7375"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>    |
+| res:Cleveland                                            | res:United_States                     | "396815"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Columbia,_Missouri>         | res:United_States                     | "108500"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Columbus,_Ohio>             | res:United_States                     | "787033"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Concord,_New_Hampshire>     | res:United_States                     | "42695"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+| <http://dbpedia.org/resource/Darwin,_Northern_Territory> | res:Australia                         | "146245"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Davenport,_Iowa>            | res:United_States                     | "102157"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Dayton,_Ohio>               | res:United_States                     | "141527"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Des_Moines,_Iowa>           | res:United_States                     | "203433"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>  |
+| <http://dbpedia.org/resource/Ellensburg,_Washington>     | res:United_States                     | "18174"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>   |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------

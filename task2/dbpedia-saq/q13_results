@@ -1,0 +1,24 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| id                                                                     | parent                                                                               |
+=================================================================================================================================================================
+| <http://dbpedia.org/resource/Abel,_King_of_Denmark>                    | res:Valdemar_II_of_Denmark                                                           |
+| <http://dbpedia.org/resource/Abel,_King_of_Denmark>                    | res:Berengaria_of_Portugal                                                           |
+| res:Agustín_de_Iturbide_y_Green                                        | <http://dbpedia.org/resource/Alice_Green_(nineteenth_century)>                       |
+| res:Agustín_de_Iturbide_y_Green                                        | res:Ángel_de_Iturbide_y_Huarte                                                       |
+| <http://dbpedia.org/resource/Albert,_12th_Prince_of_Thurn_and_Taxis>   | <http://dbpedia.org/resource/Johannes,_11th_Prince_of_Thurn_and_Taxis>               |
+| <http://dbpedia.org/resource/Albert,_12th_Prince_of_Thurn_and_Taxis>   | <http://dbpedia.org/resource/Gloria,_Princess_of_Thurn_and_Taxis>                    |
+| <http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis>    | <http://dbpedia.org/resource/Maximilian_Anton,_Hereditary_Prince_of_Thurn_and_Taxis> |
+| <http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis>    | res:Duchess_Helene_in_Bavaria                                                        |
+| <http://dbpedia.org/resource/Albert,_Duke_of_Schleswig-Holstein>       | res:Prince_Christian_of_Schleswig-Holstein                                           |
+| <http://dbpedia.org/resource/Albert,_Duke_of_Schleswig-Holstein>       | res:Princess_Helena_of_the_United_Kingdom                                            |
+| <http://dbpedia.org/resource/Albert,_King_of_Sweden>                   | <http://dbpedia.org/resource/Albert_II,_Duke_of_Mecklenburg>                         |
+| <http://dbpedia.org/resource/Albert,_King_of_Sweden>                   | res:Euphemia_of_Sweden                                                               |
+| <http://dbpedia.org/resource/Albert,_Prince_of_Schwarzburg-Rudolstadt> | <http://dbpedia.org/resource/Louis_Frederick_II,_Prince_of_Schwarzburg-Rudolstadt>   |
+| <http://dbpedia.org/resource/Albert,_Prince_of_Schwarzburg-Rudolstadt> | res:Caroline_of_Hesse-Homburg                                                        |
+| <http://dbpedia.org/resource/Albert_Casimir,_Duke_of_Teschen>          | res:Augustus_III_of_Poland                                                           |
+| <http://dbpedia.org/resource/Albert_Casimir,_Duke_of_Teschen>          | res:Maria_Josepha_of_Austria                                                         |
+| <http://dbpedia.org/resource/Albert_VII,_Archduke_of_Austria>          | <http://dbpedia.org/resource/Maria_of_Austria,_Holy_Roman_Empress>                   |
+| <http://dbpedia.org/resource/Albert_VII,_Archduke_of_Austria>          | <http://dbpedia.org/resource/Maximilian_II,_Holy_Roman_Emperor>                      |
+| res:Albert_of_Saxony                                                   | res:John_of_Saxony                                                                   |
+| res:Albert_of_Saxony                                                   | res:Amalie_Auguste_of_Bavaria                                                        |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------

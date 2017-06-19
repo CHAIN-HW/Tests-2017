@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------------------------
+| id                                                    | length                                           |
+============================================================================================================
+| res:Dečani_Bistrica                                   | "53.0"^^<http://dbpedia.org/datatype/kilometre>  |
+| res:Ibáñez_River                                      | "88.0"^^<http://dbpedia.org/datatype/kilometre>  |
+| res:Peć_Bistrica                                      | "62.0"^^<http://dbpedia.org/datatype/kilometre>  |
+| res:Prizren_Bistrica                                  | "18.0"^^<http://dbpedia.org/datatype/kilometre>  |
+| <http://dbpedia.org/resource/Studenica_(river)>       | "60.0"^^<http://dbpedia.org/datatype/kilometre>  |
+| res:Annapolis_River                                   | "120.0"^^<http://dbpedia.org/datatype/kilometre> |
+| res:Bahr_al-Arab                                      | "800.0"^^<http://dbpedia.org/datatype/kilometre> |
+| res:Bahr_el_Ghazal_River                              | "445.0"^^<http://dbpedia.org/datatype/mile>      |
+| <http://dbpedia.org/resource/Bieber_(Kinzig)>         | "16.8"^^<http://dbpedia.org/datatype/kilometre>  |
+| <http://dbpedia.org/resource/Buna_(Neretva)>          | "9.0"^^<http://dbpedia.org/datatype/kilometre>   |
+| res:Elzbach                                           | "59.0"^^<http://dbpedia.org/datatype/kilometre>  |
+| <http://dbpedia.org/resource/Ilm_(Bavaria)>           | "82.0"^^<http://dbpedia.org/datatype/kilometre>  |
+| <http://dbpedia.org/resource/Jerez_(river)>           | "56.0"^^<http://dbpedia.org/datatype/kilometre>  |
+| <http://dbpedia.org/resource/Misa_(river_in_Italy)>   | "45.0"^^<http://dbpedia.org/datatype/kilometre>  |
+| <http://dbpedia.org/resource/Nebel_(river)>           | "60.0"^^<http://dbpedia.org/datatype/kilometre>  |
+| <http://dbpedia.org/resource/Neda_(river)>            | "approx. 60 km"@en                               |
+| <http://dbpedia.org/resource/Rivière_Blanche_(Ouest)> | "100.0"^^<http://dbpedia.org/datatype/kilometre> |
+| res:San_Antonio_River                                 | "240.0"^^<http://dbpedia.org/datatype/mile>      |
+| res:Tuy_River                                         | "239.0"^^<http://dbpedia.org/datatype/kilometre> |
+| <http://dbpedia.org/resource/Valmont_(river)>         | "14.0"^^<http://dbpedia.org/datatype/kilometre>  |
+------------------------------------------------------------------------------------------------------------

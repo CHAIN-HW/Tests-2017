@@ -1,0 +1,24 @@
+-----------------------------------------------------------------------------------------------------------------------
+| id                                                           | elevation                                            |
+=======================================================================================================================
+| <http://dbpedia.org/resource/Aoraki_/_Mount_Cook>            | "3724.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Ben_Nevis                                                | "1344.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Corcovado                                                | "710.0"^^<http://www.w3.org/2001/XMLSchema#double>   |
+| res:Jabal_Ram                                                | "1734.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:K2                                                       | "8611.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Kangchenjunga                                            | "8586.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Krakatoa                                                 | "813.0"^^<http://www.w3.org/2001/XMLSchema#double>   |
+| res:Mount_Logan                                              | "5959.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Mount_Lykaion                                            | "1421.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Annapurna_I_Main                                         | "8091.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Mount_Holyoke                                            | "284.988"^^<http://www.w3.org/2001/XMLSchema#double> |
+| res:Mam_Tor                                                  | "517.0"^^<http://www.w3.org/2001/XMLSchema#double>   |
+| res:Mont_Ventoux                                             | "1912.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Mount_Kosciuszko                                         | "2228.0"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| <http://dbpedia.org/resource/Aspen_Mountain_(Colorado)>      | "3262.88"^^<http://www.w3.org/2001/XMLSchema#double> |
+| <http://dbpedia.org/resource/Aspen_Mountain_(Wyoming)>       | "2638.65"^^<http://www.w3.org/2001/XMLSchema#double> |
+| res:Blood_Mountain                                           | "1358.8"^^<http://www.w3.org/2001/XMLSchema#double>  |
+| res:Brasstown_Bald                                           | "1458.16"^^<http://www.w3.org/2001/XMLSchema#double> |
+| <http://dbpedia.org/resource/Capitol_Peak_(Colorado)>        | "4308.96"^^<http://www.w3.org/2001/XMLSchema#double> |
+| <http://dbpedia.org/resource/Capitol_Peak_(Thurston_County)> | "811.987"^^<http://www.w3.org/2001/XMLSchema#double> |
+-----------------------------------------------------------------------------------------------------------------------

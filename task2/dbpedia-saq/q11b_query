@@ -1,0 +1,16 @@
+# DBpedia query 11b (based on SAQ query 11b)
+# To run this queryfrom the command line use rsparql (not just arq)
+
+# rsparql --query q11b_query --service http://dbpedia.org/sparql > q11b_results
+
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/property/> 
+PREFIX res: <http://dbpedia.org/resource/> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT DISTINCT *
+WHERE { ?id rdf:type dbo:place ;
+            dbo:locationCountry ?locationCountry .
+} 
+LIMIT 20

@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------------------
+| id                                                  | occupation                                                      | birthPlace         |
+==============================================================================================================================================
+| res:Annie_Lee_Moss                                  | <http://dbpedia.org/resource/Signal_Corps_(United_States_Army)> | res:South_Carolina |
+| res:Annie_Lee_Moss                                  | res:Annie_Lee_Moss__1                                           | res:South_Carolina |
+| res:Annie_Lee_Moss                                  | res:Annie_Lee_Moss__2                                           | res:South_Carolina |
+| <http://dbpedia.org/resource/B.G._(rapper)>         | res:Rapping                                                     | res:New_Orleans    |
+| <http://dbpedia.org/resource/B.G._(rapper)>         | res:Rapping                                                     | res:Louisiana      |
+| <http://dbpedia.org/resource/Boom_(entertainer)>    | res:Rapping                                                     | res:South_Korea    |
+| <http://dbpedia.org/resource/Boom_(entertainer)>    | res:Rapping                                                     | res:Seoul          |
+| <http://dbpedia.org/resource/Boom_(entertainer)>    | res:Presenter                                                   | res:South_Korea    |
+| <http://dbpedia.org/resource/Boom_(entertainer)>    | res:Presenter                                                   | res:Seoul          |
+| <http://dbpedia.org/resource/Boom_(entertainer)>    | res:Singing                                                     | res:South_Korea    |
+| <http://dbpedia.org/resource/Boom_(entertainer)>    | res:Singing                                                     | res:Seoul          |
+| <http://dbpedia.org/resource/Boom_(entertainer)>    | res:Radio_personality                                           | res:South_Korea    |
+| <http://dbpedia.org/resource/Boom_(entertainer)>    | res:Radio_personality                                           | res:Seoul          |
+| <http://dbpedia.org/resource/Boom_(entertainer)>    | res:Actor                                                       | res:South_Korea    |
+| <http://dbpedia.org/resource/Boom_(entertainer)>    | res:Actor                                                       | res:Seoul          |
+| <http://dbpedia.org/resource/Carey_Wilson_(writer)> | <http://dbpedia.org/resource/Carey_Wilson_(writer)__1>          | res:Philadelphia   |
+| res:Cicero                                          | res:Lawyer                                                      | res:Roman_Republic |
+| res:Cicero                                          | res:Lawyer                                                      | res:Lazio          |
+| res:Cicero                                          | res:Lawyer                                                      | res:Arpino         |
+| res:Cicero                                          | res:Philosopher                                                 | res:Roman_Republic |
+----------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------------------
+| id                                          | location                                             |
+======================================================================================================
+| res:Boho_Caves                              | <http://dbpedia.org/resource/Boho,_County_Fermanagh> |
+| res:Boho_Caves                              | res:Irish_grid_reference_system                      |
+| res:Boho_Caves                              | res:County_Fermanagh                                 |
+| res:Gruta_Brisa_Azul                        | res:Terceira_Island                                  |
+| res:Sea_Lion_Caves                          | <http://dbpedia.org/resource/Florence,_Oregon>       |
+| res:Sea_Lion_Caves                          | res:Oregon                                           |
+| res:Apollo_11_Cave                          | res:Namibia                                          |
+| res:Apollo_11_Cave                          | res:Keetmanshoop                                     |
+| res:Krubera_Cave                            | <http://dbpedia.org/resource/Georgia_(country)>      |
+| res:Krubera_Cave                            | res:Abkhazia                                         |
+| res:Jiangzhou_Cave_System                   | res:China                                            |
+| res:Jiangzhou_Cave_System                   | res:Fengshan_County                                  |
+| res:Ogof_Dydd_Byraf                         | res:Wales                                            |
+| res:Ogof_Dydd_Byraf                         | res:Wrexham_County_Borough                           |
+| <http://dbpedia.org/resource/Sykia_(Voula)> | res:Voula                                            |
+| <http://dbpedia.org/resource/Sykia_(Voula)> | res:Greece                                           |
+| <http://dbpedia.org/resource/Sykia_(Voula)> | res:Attica                                           |
+| res:Taiji_Cave                              | res:Guangde_County                                   |
+| res:Gouffre_Berger                          | res:Vercors_Cave_System                              |
+| res:Amboni_Caves                            | res:Tanzania                                         |
+------------------------------------------------------------------------------------------------------

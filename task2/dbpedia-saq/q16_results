@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------
+| id                                                            | director                                                 |
+============================================================================================================================
+| res:Actrius                                                   | res:Ventura_Pons                                         |
+| res:Army_of_Darkness                                          | res:Sam_Raimi                                            |
+| res:Barry_Lyndon                                              | res:Stanley_Kubrick                                      |
+| <http://dbpedia.org/resource/Batman_&_Robin_(film)>           | res:Joel_Schumacher                                      |
+| <http://dbpedia.org/resource/Batman_(1966_film)>              | res:Leslie_H._Martinson                                  |
+| <http://dbpedia.org/resource/Batman_(1989_film)>              | res:Tim_Burton                                           |
+| res:Batman_Forever                                            | res:Joel_Schumacher                                      |
+| res:Batman_Returns                                            | res:Tim_Burton                                           |
+| res:Blade_Runner                                              | res:Ridley_Scott                                         |
+| res:Blazing_Saddles                                           | res:Mel_Brooks                                           |
+| <http://dbpedia.org/resource/Blue_Velvet_(film)>              | res:David_Lynch                                          |
+| res:Braveheart                                                | res:Mel_Gibson                                           |
+| res:Bride_of_the_Monster                                      | res:Ed_Wood                                              |
+| <http://dbpedia.org/resource/Buffy_the_Vampire_Slayer_(film)> | res:Fran_Rubel_Kuzui                                     |
+| res:Chariots_of_Fire                                          | res:Hugh_Hudson                                          |
+| res:Citizen_Kane                                              | res:Orson_Welles                                         |
+| <http://dbpedia.org/resource/Crouching_Tiger,_Hidden_Dragon>  | res:Ang_Lee                                              |
+| res:Das_Boot                                                  | res:Wolfgang_Petersen                                    |
+| res:Destroy_All_Monsters                                      | res:Ishirō_Honda                                         |
+| res:Destry_Rides_Again                                        | <http://dbpedia.org/resource/George_Marshall_(director)> |
+----------------------------------------------------------------------------------------------------------------------------

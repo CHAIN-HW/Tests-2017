@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------------------
+| id                                                                  | spouse                                                               |
+==============================================================================================================================================
+| <http://dbpedia.org/resource/Abel,_King_of_Denmark>                 | res:Matilda_of_Holstein                                              |
+| <http://dbpedia.org/resource/Albert,_8th_Prince_of_Thurn_and_Taxis> | res:Archduchess_Margarethe_Klementine_of_Austria                     |
+| <http://dbpedia.org/resource/Albert,_King_of_Sweden>                | res:Agnes_of_Brunswick-Lüneburg                                      |
+| <http://dbpedia.org/resource/Albert,_King_of_Sweden>                | <http://dbpedia.org/resource/Richardis_of_Schwerin,_Queen_of_Sweden> |
+| <http://dbpedia.org/resource/Albert_Casimir,_Duke_of_Teschen>       | <http://dbpedia.org/resource/Maria_Christina,_Duchess_of_Teschen>    |
+| <http://dbpedia.org/resource/Albert_VII,_Archduke_of_Austria>       | res:Isabella_Clara_Eugenia                                           |
+| res:Albert_of_Saxony                                                | res:Carola_of_Vasa                                                   |
+| <http://dbpedia.org/resource/Antonio_Farnese,_Duke_of_Parma>        | <http://dbpedia.org/resource/Enrichetta_d'Este>                      |
+| res:Arthur_P._Jacobs                                                | res:Natalie_Trundy                                                   |
+| <http://dbpedia.org/resource/Christian,_Duke_of_Saxe-Eisenberg>     | res:Sophie_Marie_of_Hesse-Darmstadt                                  |
+| <http://dbpedia.org/resource/Christian,_Duke_of_Saxe-Eisenberg>     | res:Christiane_of_Saxe-Merseburg                                     |
+| <http://dbpedia.org/resource/Christian,_Prince-Elect_of_Denmark>    | res:Magdalene_Sibylle_of_Saxony                                      |
+| <http://dbpedia.org/resource/Christian_I,_Elector_of_Saxony>        | res:Sophie_of_Brandenburg                                            |
+| res:Christian_IV_of_Denmark                                         | res:Anne_Catherine_of_Brandenburg                                    |
+| res:Christian_IV_of_Denmark                                         | res:Kirsten_Munk                                                     |
+| res:Christian_I_of_Denmark                                          | res:Dorothea_of_Brandenburg                                          |
+| res:Christian_VIII_of_Denmark                                       | res:Duchess_Charlotte_Frederica_of_Mecklenburg-Schwerin              |
+| res:Christian_VIII_of_Denmark                                       | res:Caroline_Amalie_of_Augustenburg                                  |
+| res:Christian_VII_of_Denmark                                        | res:Caroline_Matilda_of_Great_Britain                                |
+| res:Christian_VI_of_Denmark                                         | res:Sophie_Magdalene_of_Brandenburg-Kulmbach                         |
+----------------------------------------------------------------------------------------------------------------------------------------------

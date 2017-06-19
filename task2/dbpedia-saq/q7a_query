@@ -1,0 +1,14 @@
+# DBpedia query 7a (based on SAQ query 7)
+# To run this queryfrom the command line use rsparql (not just arq)
+
+# rsparql --query q7a_query --service http://dbpedia.org/sparql > q7a_results
+
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX res: <http://dbpedia.org/resource/> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT DISTINCT *
+WHERE { ?id rdf:type dbo:Country .
+} 
+LIMIT 20

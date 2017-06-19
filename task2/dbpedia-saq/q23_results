@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------------------------------------------
+| id                                                       | location                                             |
+===================================================================================================================
+| res:Airbus_Helicopters                                   | res:Marignane                                        |
+| res:Airbus_Helicopters                                   | res:Marseille_Provence_Airport                       |
+| res:Daimler_AG                                           | res:Germany                                          |
+| res:Daimler_AG                                           | res:Stuttgart                                        |
+| res:Robert_Bosch_GmbH                                    | res:Germany                                          |
+| res:Robert_Bosch_GmbH                                    | res:Gerlingen                                        |
+| res:Adobe_Systems                                        | res:Adobe_World_Headquarters                         |
+| res:Adobe_Systems                                        | <http://dbpedia.org/resource/San_Jose,_California>   |
+| res:Adobe_Systems                                        | res:California                                       |
+| <http://dbpedia.org/resource/American_Media_(publisher)> | res:New_York_City                                    |
+| res:Amway                                                | <http://dbpedia.org/resource/Ada_Township,_Michigan> |
+| res:Amway                                                | res:Michigan                                         |
+| <http://dbpedia.org/resource/Aon_(company)>              | res:London                                           |
+| <http://dbpedia.org/resource/Aon_(company)>              | res:United_Kingdom                                   |
+| res:AvtoVAZ                                              | res:Russia                                           |
+| res:AvtoVAZ                                              | res:Tolyatti                                         |
+| res:AvtoVAZ                                              | res:Samara_Oblast                                    |
+| res:BT_Group                                             | res:London                                           |
+| res:BT_Group                                             | res:United_Kingdom                                   |
+| res:BT_Group                                             | res:BT_Centre                                        |
+-------------------------------------------------------------------------------------------------------------------

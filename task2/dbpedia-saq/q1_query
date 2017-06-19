@@ -1,0 +1,18 @@
+# DBpedia query 1 (based on SAQ training query 1)
+# To run this queryfrom the command line use rsparql (not just arq)
+
+# rsparql --query q2_query --service http://dbpedia.org/sparql > q2_results
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX res: <http://dbpedia.org/resource/>
+
+SELECT DISTINCT *
+WHERE {
+    ?id rdf:type dbo:Astronaut;
+        dbo:nationality ?nationality. }
+LIMIT 20
+
+# We might use the lines below for Task 3
+#        dbo:nationality res:Russia . }
+#        dbo:nationality res:Soviet_Union . }
