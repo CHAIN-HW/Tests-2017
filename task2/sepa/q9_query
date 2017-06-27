@@ -1,7 +1,0 @@
-#q9a_query
-# arq --query q9a_query > q9a_results
-
-SELECT  *
- FROM </home/dsb5/CHAIN/chain-may-2017/chain/code/daisy-spsm/queryRespond/datasets/sepa/bathingWaters.n3>
-WHERE { ?id <http://data.sepa.org.uk/ont/Water#bathingWaterId> ?bathingWaterId . }
-
